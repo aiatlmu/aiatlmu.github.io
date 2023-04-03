@@ -354,3 +354,14 @@ Various use cases relevant to current policy at international and national level
   start: 090000
   end: 170000
   
+- id: 29
+  type: Test event
+  date: 2023-04-03
+  title: Testing event to see if the Github pages work
+  link: https://stackoverflow.com/questions/69318162/can-i-make-my-github-pages-repository-private-and-still-have-the-web-link-itself
+  description: 'This is an test event to see if the Github pages work' </br>
+  In this event we are checking wether or not the github pages work for jekyll. 
+  cal: true
+  start: 090000
+  end: 170000
+  
