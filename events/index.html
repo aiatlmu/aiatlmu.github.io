@@ -33,7 +33,7 @@ title: AI@LMU Events
 </div>
 {%- assign buildTimeInSecondsInEpoch = site.time | date: "%s" | plus: 0 -%}
 
-{% assign sorted = site.data.events | sort: 'date' %}
+{% assign sorted = site.data.events | sort: 'date' | reverse%}
 <div class="c-filterable-list--jobs" data-css="c-filterable-list">
 			<div class="grid__container">
 				<div class="grid__row">
@@ -46,7 +46,7 @@ title: AI@LMU Events
 											<a class="filterable-list__list-item-link" href="/calendar.ics">Subscribe to events with iCal</a>
 									</div>
 								</li>  
-				{% for event in sorted reversed limit:10 %}
+				{% for event in sorted limit:10 %}
 				{%- assign pageDateInSecondsInEpoch = event.date | date:"%s" | plus: 0 -%}
 				{% if event.date_end and event.date_end != "" and event.date_end != nil %}
    {%- assign pageDateInSecondsInEpoch = event.date_end | date:"%s" | plus: 0 -%}
