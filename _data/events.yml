@@ -353,3 +353,53 @@ Various use cases relevant to current policy at international and national level
   cal: true
   start: 090000
   end: 170000
+
+- id: 29
+  type: Conference
+  date: 2023-11-6
+  date_end: 2023-11-7
+  title: Second TRR 318 Conference&#58; Measuring Understanding
+  link: https://trr318.uni-paderborn.de/conferences/measuring-understanding
+  description: 'This year‘s conference of the collaborative research center TRR 318 “Constructing Explainability” involving LMU focuses on measuring understanding. We invite all researchers working on Explainable Artificial Intelligence research to submit your work as an abstract until 15.05.2023 to conference@trr318.uni-paderborn.de. The conference will be held in Paderborn from the 06.11.2023 – 07.11.2023 and there will be no conference fees.'
+  cal: true
+
+- id: 30
+  type: Talk
+  date: 2023-04-20
+  title: Measuring political positions using contextual word embeddings
+  link: https://munich-nlp.github.io/events/measuring-political-positions-using-contextual-word-embeddings/
+  description: 'Patrick Schwabl, a Ph.D. candidate in Computational Communication Research at the Department for Media and Communication at LMU, will give a talk on the use of neural NLP for political and communication science at Munich NLP. The talk will take place virtually on April 20.'
+  cal: true
+  start: 180000
+  end: 193000
+
+- id: 31
+  type: Talk
+  date: 2023-04-24
+  title: ChatGPT within the context of science communication
+  link: https://www.mscl.de/24-04-2023-discussion-chatgpt-and-science-communication/
+  description: On April 24th, from 14&#58;00 to 15&#58;30, the four centers funded by the VolkswagenStiftung Science Communication Cubed are coming together to examine the role of ChatGPT within the context of science communication.
+  cal: true
+  start: 140000
+  end: 153000
+
+- id: 32
+  type: Conference
+  date: 2023-03-23
+  date_end: 2023-03-24
+  title: Epistemology and Theory of Machine Learning 
+  link: https://www.mcmp.philosophie.uni-muenchen.de/events/workshops/container/ml_2023/index.html
+  description: 'The rapid rise and huge impact of methods in machine learning raises important philosophical questions. There is, in particular, an increasing interest in questions of epistemology: how exactly do machine learning methods facilitate or generate knowledge? Issues under this header include the justification and the fundamental limitations of such methods, their interpretability, and their implications for scientific reasoning in general. Since machine learning algorithms are, in the end, formal procedures, a formally-minded philosophical approach promises to be particularly fruitful for making progress on these issues. Such a study of modern machine learning algorithms can draw from a long tradition of work in formal epistemology and philosophy of science, as well as from work in computer science and the mathematics of machine learning. The aim of this workshop is to discuss foundational issues of machine learning in this formal spirit.'
+  cal: true
+
+- id: 33
+  type: Conference
+  date: 2023-02-23
+  date_end: 2023-02-24
+  title: AI.BAY 2023 - Bavarian International Conference on AI
+  link: https://www.aibay2023.de/
+  description: 'Artificial intelligence is increasingly shaping our daily lives. From digital assistants on cell phones to complex systems in mobility or industrial production - it is impossible to imagine life without this key technology.</br>
+The Bavarian State Minister of Science, Markus Blume, the Minister for Digital Affairs, Judith Gerlach, and the Minister of Economic Affairs, Hubert Aiwanger, are pleased to invite you to experience the latest trends and the outstanding potential of AI at first hand at AI.BAY 2023 - Bavarian International Conference on AI. Together with leading representatives of the Bavarian AI Network and prestigious guests from abroad, the future of AI will be put into perspective and international developments will be presented. AI.BAY 2023 will also provide a new forum for the entire Bavarian AI community and international AI experts.'
+  cal: true
+  start: 140000
+  end: 153000
