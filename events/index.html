@@ -51,7 +51,6 @@ title: AI@LMU Events
 				{% if event.date_end and event.date_end != "" and event.date_end != nil %}
    {%- assign pageDateInSecondsInEpoch = event.date_end | date:"%s" | plus: 0 -%}
 {% endif %}
-    {%- if pageDateInSecondsInEpoch >= buildTimeInSecondsInEpoch -%}
 								  <li class="filterable-list__list-item" tabindex="-1">
 									<div class="filterable-list__list-item-text-wrapper">
 										<em class="filterable-list__list-item-meta">{{ event.type }}  •  {% if event.date_text and event.date_text != "" and event.date_text != nil %}
@@ -63,7 +62,7 @@ title: AI@LMU Events
 										<p class="filterable-list__list-item-description">{{ event.description }}</p>
 									</div>
 								</li>  
-    {%- endif -%}
+ 
 {% endfor %}
 							</ul>						
 					</div>
