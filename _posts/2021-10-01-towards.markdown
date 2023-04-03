@@ -1,0 +1,18 @@
+---
+layout: post
+title:  "AI Symposium"
+image: files/ai_web.jpg
+excerpt: 'Start of New CAS Research Focus on Next Generation of AI'
+---
+
+We currently witness the impressive success of artificial intelligence (AI) in real-world applications, ranging from autonomous driving over speech recognition to the health care sector. At the same time, modern, typically data-driven AI methods have a similarly strong impact on science such as astronomy, physics, medicine – as well as humanities or social sciences, often replacing classical methods in the state of the art. In fact, at present, basically any research area is already impacted or starting to get involved in research questions in the realm of AI. However, despite this outstanding success, most of the research on AI is empirically driven and not only is a comprehensive theoretical foundation -- in particular, in the sense of explanations of decisions -- missing, but even the limitations of these methods are far from being well understood. It is also far from clear how AI-based methods can be optimally combined with classical methods based on physical models as domain knowledge.
+
+The new CAS Research Focus (speaker <a href="https://www.ai.math.lmu.de/kutyniok">Prof. Dr. Gitta Kutyniok</a>) aims to connect, in particular, more methodological/theoretical with more application-oriented researchers across all faculties of LMU Munich as well as existing research and teaching activities, focusing on the following key problem complexes at the verge of the next generation of AI:
+<ul>
+  <li>AI and Uncertainty</li>
+  <li>AI and Domain Knowledge</li>
+  <li>Limitations of AI</li>
+  <li>Social Aspects of AI (Explainability, Fairness, etc.)</li>
+</ul>
+
+Over the next two years, internal and external workshops, lectures and lecture series, as well as panel discussions will be organized. More information is available on the <a href="https://www.en.cas.uni-muenchen.de/research_focus/next_generation_ai/index.html">CAS webpage</a>. 

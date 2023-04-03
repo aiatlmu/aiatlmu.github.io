@@ -1,0 +1,52 @@
+{% include header.html %}
+	<head>
+	<base href="../../../../../">
+<title>{{page.title}}</title>
+	{% include header2.html %}
+	</head>
+	<body>
+{% include navigation.html %}
+		<main id="r-main" data-js-item="main">
+<div class="c-header-news-detail--news" data-css="c-header-news-detail" data-js-module="header-news-detail">
+	<div class="grid__container">
+		<div class="grid__row">
+			<div class="header-news-detail__container">
+				<article class="header-news-detail__wrapper">
+					<div class="header-news-detail__iconarea">
+						<div class="header-news-detail__icon" title="Icon News"><span class="header-news-detail__icon-text">News</span></div>
+					</div>
+					<div class="header-news-detail__content">
+								<h1 class="header-news-detail__headline">{{page.title}}</h1>
+								<p class="header-news-detail__date">{{ page.date | date_to_long_string }}</p>
+								<p>{{ page.excerpt }}</p>
+					</div>
+				</article>
+			</div>
+		</div>
+	</div>
+</div>
+<article class="c-rte--default" data-css="c-rte">
+	<div class="rte__container"> 
+		<div class="rte__content">
+	{% unless page.no_text_im %}
+				<figure class="c-figure--rte is-rte-embed is-right" data-css="c-figure" data-js-module="overlay-handler">
+					<div class="figure__wrapper">
+						<picture class="c-picture--default lazyloaded" data-css="c-picture">
+							<!--[if IE 9]><audio><![endif]-->
+							<source data-srcset={{ page.image }} sizes="411px" srcset={{ page.image }}>
+							<!--[if IE 9]></audio><![endif]-->
+							<img class="picture__image lazyautosizes lazyloaded" src="{{ page.image }}" alt="" data-sizes="auto" sizes="411px">
+						</picture>
+					</div>
+						<figcaption class="figure__caption">
+						</figcaption>
+				</figure>
+  {% endunless %}			
+				<p>{{ content }}</p>
+		</div>
+	</div>
+</article>
+
+	{% include footer.html %}
+	</body>
+</html>

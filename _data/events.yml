@@ -1,0 +1,356 @@
+- id: 1
+  type: Lecture
+  date: 2022-01-11
+  title: 'Prof. Dr. Daniel Grün: The universe in the machine brain: Artificial intelligence in cosmology'
+  link: https://www.lmu.de/en/study/all-degrees-and-programs/a-university-for-everyone/ki-lectures/index.html
+  description: 'Within the KI Lectures of LMU, Prof. Dr. Daniel Grün will give a talk on "Das Universum im Maschinenhirn: Künstliche Intelligenz in der Kosmologie". The KI Lectures is a digital, public lecture series (in German) with distinguished scholars from different faculties of LMU. '
+  cal: true
+  start: 181500
+  end: 194500
+  
+- id: 2
+  type: Lecture
+  date: 2022-01-25
+  title: 'Prof. Dr. Helmut Küchenhoff'
+  link: https://www.lmu.de/en/study/all-degrees-and-programs/a-university-for-everyone/ki-lectures/index.html
+  description: 'Within the KI Lectures of LMU, Prof. Dr. Helmut Küchenhoff will give a talk on "Datengestützte politische Entscheidungen". The KI Lectures is a digital, public lecture series (in German) with distinguished scholars from different faculties of LMU.'
+  cal: true
+  start: 181500
+  end: 194500
+ 
+- id: 3
+  type: 'Round Table'
+  date: 2022-01-26
+  title: '"Next Generation AI" Topic II: AI and Domain Knowledge'
+  link: https://www.cas.uni-muenchen.de/veranstaltungen/tagungen/roundtable_ai_ii/index.html
+  description: 'The second Round Table within the CAS Research Focus "Next Generation AI" will discuss the topic of "AI and Domain Knowledge". Several experts, predominantly from LMU, will give short presentations, leaving sufficient time for discussions. One of the goals of these round tables is to initiate discussions and foster interactions across all faculties of LMU.'
+  cal: true
+  start: 090000
+  end: 163000
+ 
+- id: 4
+  type: 'Round Table'
+  date: 2022-02-07
+  title: '"Next Generation AI" Topic III: Limitations of AI'
+  link: https://www.en.cas.uni-muenchen.de/events/conferences/roundtable_ai_iii/index.html
+  description: 'The third Round Table within the CAS Research Focus "Next Generation AI" will discuss the topic of "Limitations of AI". Several experts, predominantly from LMU, will give short presentations, leaving sufficient time for discussions. One of the goals of these round tables is to initiate discussions and foster interactions across all faculties of LMU.'
+  cal: true
+  start: 090000
+  end: 150000
+ 
+- id: 5
+  type: Lecture
+  date: 2022-02-08
+  title: 'Prof. Dr. Thomas Seidl'
+  link: https://www.lmu.de/en/study/all-degrees-and-programs/a-university-for-everyone/ki-lectures/index.html
+  description: 'Within the KI Lectures of LMU, Prof. Dr. Thomas Seidl will give a talk on "Künstliche Intelligenz - ein Ausblick auf künftige Entwicklungen". The KI Lectures is a digital, public lecture series (in German) with distinguished scholars from different faculties of LMU. '
+  cal: true
+  start: 181500
+  end: 194500
+ 
+- id: 6
+  type: 'Round Table'
+  date: 2022-02-18
+  title: '"Next Generation AI" Topic IV: Social Aspects of AI'
+  link: https://www.en.cas.uni-muenchen.de/events/conferences/roundtable_ai_iv/index.html
+  description: 'The fourth Round Table within the CAS Research Focus "Next Generation AI" will discuss the topic of "Social Aspects of AI". Several experts, predominantly from LMU, will give short presentations on topics such as explainabilitiy and trustworthiness, leaving sufficient time for discussions. One of the goals of these round tables is to initiate discussions and foster interactions across all faculties of LMU.'
+  cal: true
+  start: 090000
+  end: 160000
+ 
+- id: 7
+  type: 'Symposium'
+  date: 2022-06-01
+  title: 'Symposium on AI Research at LMU'
+  link: symposium/
+  description: In order to expand the research network on artificial intelligence in Bavaria, 100 new AI chairs were established across the state. The first Bavarian LMU AI chairs are Prof. Chris Donkin, Ph.D., Prof. Dr. Stefan Feuerriegel, Prof. Dr. Daniel Gruen, Prof. Dr. Eyke Hüllermeier, Prof. James Kirby, Ph.D., Prof. Dr. Gitta Kutyniok, Prof. Dr. Björn Ommer, and Prof. Dr. Barbara Plank. After a welcome address by the president of LMU, Prof. Dr. Dr. h.c. Bernd Huber, and opening remarks by the director of the Center for Advanced Studies, Prof. Dr. Christof Rapp, the newly appointed chairholders will introduce themselves and their various research approaches at this symposium. A panel moderated by Prof. Dr. Frauke Kreuter will then discuss the next generation of AI research at LMU.
+  cal: true
+  start: 183000
+  end: 200000
+ 
+- id: 8
+  type: Conference
+  date: 2022-05-26
+  title: 'Understanding the Dynamics of (Ir)Responsible AI in Journalism and Algorithmically Shaped News Flows'
+  link: https://neilthurman.com/blog-reader/call-for-papers-ica-preconference-on-ai-and-algorithms-in-journalism.html
+  description: "Co-organised by LMU's Professor Neil Thurman and Dr Bartosz Wilczek, this one day conference in Paris, France has two aims. Firstly, to better understand and model how the interplay between AI, journalistic professionals, and news audiences shapes the flow of news online. And, secondly, to better understand the technological, organizational, ethical/legal and societal conditions that facilitate the responsible use of AI in journalism. Abstract submission deadline&#58; 15 February 2022"
+
+- id: 9
+  type: Public Lecture
+  date: 2022-04-11
+  title: 'Digital Trace Data in Social Science Research'
+  link: https://lmu-munich.zoom.us/j/94191313309?pwd=bnREczlPZ3hIMW41cnFnM0ttbVNVZz09
+  description: "Using digital trace data in combination with self-reports to answer social science
+research questions by Florian Keusch (University of Mannheim)</br>
+When people browse the Internet, post on social media platforms, use their smartphone, or
+engage with other online information systems, they leave records of their activity. These
+digital traces provide researchers with new opportunities for studying social and behavioral
+phenomena. The excitement about digital trace data mainly stems from the fine-grained
+nature of the data that potentially allows researchers to observe individual and social behavior
+as well as changes in behavior at high frequencies and in real time. In addition, their
+measurement is nonintrusive, that is, the data collection happens without the observed person
+having to self-report. This talk will discuss the potential of digital trace data to answer a
+broad range of social science research questions and how they can be combined with selfreports from surveys to provide a more complete picture of human behavior and social
+interactions. Examples of how the two data sources can be collected and combined will be
+presented.
+</br></br>
+Understanding conditioning in surveys and digital trace data by Alexandru Cernat (University of Manchester)</br>
+Conditioning or mere-effects have long been a concern in social science data collection. This
+is especially problematic in longitudinal data collection where participants can change their
+behaviours and attitudes as a result of repeated observations. While digital trace data can
+provide a possible solution to this problem, due to its lower intrusiveness, it is by no means
+immune to it as people can change their behaviour when they are observed. In this talk we
+will show how conditioning can effect both longitudinal surveys and digital trace data and
+highlight how multiple (and longitudinal) data sources can be used to understand the
+conditioning process. Time: 15:30-17:00"
+  cal: true
+  start: 153000
+  end: 170000
+  
+- id: 10
+  type: Public Lecture
+  date: 2022-04-13
+  title: 'Adaptive Design in Data Collection, by James Wagner'
+  link: https://lmu-munich.zoom.us/j/94191313309?pwd=bnREczlPZ3hIMW41cnFnM0ttbVNVZz09
+  description: "Surveys face difficult choices in managing cost-error tradeoffs. Stopping rules have been proposed as a
+method for managing these tradeoffs. A stopping rule will limit effort on cases in order to reduce costs
+with minimal harm to quality. Previously proposed stopping rules have focused on quality with an
+implicit assumption that all cases have the same cost. While this may be true for mail or web surveys,
+this assumption is unlikely to be true for either telephone or face-to-face surveys. We propose a new
+rule that looks at both predicted costs and quality. This rule is tested experimentally against another
+rule that focuses on stopping cases that are expected to be difficult to recruit. We test both Bayesian
+and non-Bayesian versions of the rule. The Bayesian version of the prediction models uses historical
+data to establish prior information. We find that the new rule produces higher quality estimates for
+about the same cost regardless of the use of prior information. Time: 15:30-17:00"
+  cal: true
+  start: 153000
+  end: 170000
+  
+- id: 11
+  type: Public Lecture
+  date: 2022-04-14
+  title: Using Twitter to Sample Privacy Stakeholders, by Trent Buskirk
+  link: https://lmu-munich.zoom.us/j/94191313309?pwd=bnREczlPZ3hIMW41cnFnM0ttbVNVZz09
+  description: "The size and diversity of the privacy stakeholder arena presents a challenge for systematically synthesizing its members' conversations and opinions. The TAPP (Transatlantic Privacy Perceptions) Panel aims to follow and analyze developments in stakeholders' attitudes, expectations and concerns around current and future topics in digital privacy over time through a cross-national, cross-sectoral survey of influential voices and experts in privacy.</br>
+For reaching, recruiting, and retaining this unique population, a novel, tiered and targeted sampling and recruiting approach has been developed, combining systematic research for privacy experts with Twitter-based network and respondent-driven sampling techniques which are currently being tested in a pilot study.  The pilot seeks to use specific keywords related to privacy for recruiting individuals who are conversant about privacy topics into the panel. 
+This talk will discuss the pilot study in particular and look at how one can leverage the infrastructure of a social media platform for survey recruitment based on user and content related variables. Time: 15:30-17:00"
+  cal: true
+  start: 153000
+  end: 170000
+  
+- id: 12
+  type: Lecture Series
+  date_text: "5 May 2022 to 27 July 2022"
+  date_end: 2022-07-27
+  date: 2022-04-14
+  title: AIM@LMU Ringvorlesung "AI in Science and Society"
+  link: https://www.kiml.ifi.lmu.de/studies-teaching/ringvorlesung/index.html
+  description: 'The lecture series "AI in Science and Society" will take place for the first time in the coming summer semester. The lecture is a component of the future minor "AI as a major minor" (AIM@LMU) and is open to all LMU students.
+</br>
+</br>
+When: Wednesdays 3-5pm</br>
+Where: Geschw.-Scholl-Pl. 1 (A) - A 120</br>
+Language: English and German</br></br>
+
+In October 2021, the program "AIM@LMU - Künstliche Intelligenz als Nebenfach an der LMU" was approved as part of the federal and state funding initiative "Künstliche Intelligenz in der Hochschulbildung". The aim of the program is to design a broad, interdisciplinary range of courses in the field of artificial intelligence for as many courses of study at the LMU as possible. Students from a wide range of disciplines should be given the opportunity to supplement their primary field of study with a customized AI training. The interdisciplinary lecture series "AI in Science and Society" aims to highlight the social relevance of AI and the importance of AI for different scientific fields.
+</br>
+Although the minor is still being prepared, this lecture is to be offered in the coming summer semester. Lecturers from the natural sciences and humanities will give an insight into the applications of artificial intelligence in their respective fields.
+</br>
+Please check our website regularly or contact the program coordinator for up-to-date information and a preview of the lecture topics.'
+  cal: true
+  start: 150000
+  end: 170000
+  rep_line: "RRULE:FREQ=WEEKLY;UNTIL=20220727T000000Z"
+  
+- id: 13
+  type: MunichCancerTalks
+  date: 2022-04-29
+  title: "G.Landry: Artificial intelligence in the radiotherapy workflow - Data Science and Artificial Intelligence at the Medical Faculty"
+  link: https://www.munichcancertalks.de/talks/8cb19493ce4cc7ff
+  description: 'Seminar Series: Data Science and Artificial Intelligence at the Medical Faculty
+</br>
+The next iteration of the Data Science and Artificial Intelligence at the Medical Faculty seminar will take place on Friday April 29th at 10:00. Prof. Dr. Guillaume Landry (Image guided radiation therapy, Klinik und Poliklinik für Strahlentherapie und Radioonkologie am LMU Klinikum) will give a talk about Artificial intelligence in the radiotherapy workflow.
+'
+  cal: true
+  start: 100000
+  end: 113000
+  
+- id: 14
+  type: Public Lecture
+  date: 2022-05-04
+  title: Munich AI Lecture by Cynthia Dwork
+  link: https://munichlectures.ai/upcoming/
+  description: 'On a monthly basis, the Munich Data Science Institute (MDSI) at TUM, the Munich Center for Machine Learning (MCML), ELLIS Munich, and the Center for Advanced Studies (CAS) at LMU invite top-level AI researchers to give us a glimpse into their work and the future of AI. The inaugural lecture will be held by Cynthia Dwork.
+</br>
+The lectures consist of a short presentation followed by a Q&A to enable a lively discussion with our speakers. Each lecture lasts about one hour and will be streamed live. Recordings will be available on YouTube afterwards.'
+  cal: true
+  start: 170000
+  end: 180000
+  
+- id: 15
+  type: Public Lecture
+  date: 2022-05-05
+  date_end: 2022-07-30
+  date_text: "5 May 2022 to 28 July 2022"
+  title: AI Keynotes Summer Semester 2022
+  link: https://www.ai.bwl.uni-muenchen.de/keynotes/index.html
+  description: 'The Institute of Artificial Intelligence (AI) in Management is again running the AI Keynotes series this summer semester. The weekly sessions on Thursdays aim to give an overview of current trends in AI research and consist of 45-60 minutes of presentation, followed by discussion, feedback and Q&A. All sessions are available via Zoom.</br>
+  
+  The series is a joint initiative, led by LMU Munich (Prof. Stefan Feuerriegel) together with co-hosts from leading national universities all over the world.'
+  cal: true
+  
+- id: 16
+  type: Conference
+  date: 2022-07-14
+  title: German Data Science Days
+  link: http://datasciencedays.de
+  description: 'Digitalisation, industry 4.0, and Big Data are just some of the currently prominent buzzwords. Data is becoming increasingly important and so is data science, the science and methodology of extracting information and knowledge from data. Data science plays a major role in science, industry, and business, and close collaboration between all parties involved is necessary. The German Data Science Days (GDSD) offer the ideal platform for such collaboration. The GDSD bring together data scientists from various fields and create a forum for users and experts. The aim is to identify and discuss new methods and fields of application and to enhance the professional image of data scientists.</br>
+  
+  The German Data Science Days are organised by the elite master programme Data Science at LMU München in cooperation with the German Data Science Society (GDS) e.V.</br>
+  More information and registration under <a href="http://datasciencedays.de">datasciencedays.de</a>.'
+  cal: true
+  
+- id: 17
+  type: Lecture
+  date: 2022-10-05
+  title: Munich AI Lectures&#58; Max Welling
+  link: https://munichlectures.ai/max-welling/
+  description: 'There is an interesting new field developing at the intersection of the physical sciences and deep learning, sometimes called AI4Science. In one direction, tools developed in the AI community are used to solve problems in science, such as protein folding, molecular simulation, and so on. But also in the other direction, deep insights from mathematics and physics are inspiring new DL architectures, such as Neural ODE solvers, and equivariance. In this talk, I will start with mapping out some of the opportunities at this intersection and subsequently dive a little deeper into PDE solving. Also, in this subfield, cross fertilization has already happened both ways: people have used DL tools to successfully solve PDE equations much faster than with traditional solvers. But reversely, there are also efforts to use PDEs as “infinite width”, functional representations of layers in a deep NN architecture. The latter is helpful for instance to become independent of gridding choices. In the second half of this talk, I will explain our most recent efforts to solve PDEs faster and more accurately using DL, and reversely, new ways to use PDEs as an approximate equivariance prior.'
+  cal: true
+  start: 170000
+  end: 180000
+  
+- id: 18
+  type: Lecture
+  date: 2022-11-02
+  title: Munich AI Lectures&#58; Michael Bronstein
+  link: https://munichlectures.ai/upcoming/
+  description: 'Topic TBD'
+  cal: true
+  start: 170000
+  end: 180000
+  
+- id: 19
+  type: Panel Discussion
+  date: 2022-10-25
+  title: Next Generation AI&#58; The Future of Astrophysics
+  link: /files/LectureSeriesNextGenerationAI.pdf
+  description: 'Panel Discussion with Daniel Gruen (LMU), Lukas Heinrich (TUM) and Kevin Heng (LMU)
+  </br>Moderation&#58; Jenny Sorce (IAS, Paris-Saclay/CAS Fellow)'
+  cal: true
+  start: 190000
+  end: 203000
+  
+- id: 20
+  type: Panel Discussion
+  date: 2022-11-23
+  title: Next Generation AI&#58; Artificial Intelligence in Conflict Research
+  link: /files/LectureSeriesNextGenerationAI.pdf
+  description: 'Nils B. Weidmann (Konstanz/CAS Fellow)</br>
+Moderation&#58; Gitta Kutyniok (LMU)'
+  cal: true
+  start: 183000
+  end: 200000
+  
+- id: 21
+  type: Panel Discussion
+  date: 2022-12-01
+  title: Next Generation AI&#58; Writing with Artificial Intelligence
+  link: /files/LectureSeriesNextGenerationAI.pdf
+  description: 'Panel Discussion with Barbara Plank (LMU), Mario Haim (LMU), Uli Köppen (BR) and Hinrich Schütze (LMU)</br>
+Moderation&#58; Lena Bouman (CAS)'
+  cal: true
+  start: 171500
+  end: 184500
+  
+- id: 22
+  type: Panel Discussion
+  date: 2023-02-02
+  title: Next Generation AI&#58; The Impact of AlphaFold on Protein Research
+  link: /files/LectureSeriesNextGenerationAI.pdf
+  description: 'Panel Discussion with Karl-Peter Hopfner (LMU) and Alexander Pritzel (DeepMind)</br>
+Moderation&#58; Julia Merlot (SPIEGEL)'
+  cal: true
+  start: 183000
+  end: 200000
+  
+- id: 23
+  type: Panel Discussion
+  date: 2023-02-06
+  title: Next Generation AI&#58; Visualizing (Bio-)Medicine with Artificial Intelligence
+  link: /files/LectureSeriesNextGenerationAI.pdf
+  description: 'Panel Discussion with Laura Busse (LMU), Frederick Klauschen (LMU) and Björn Menze (Zürich)</br>1
+Moderation&#58; Björn Ommer and Michael Ingrisch (LMU)'
+  cal: true
+  start: 183000
+  end: 200000
+  
+- id: 24
+  type: Online Module
+  date: 2022-10-01
+  date_end: 2022-10-09
+  date_text: "1 to 9 October 2022"
+  title: The Public Good Statistics&#58; A Reflective Introduction by Walter J. Radermacher
+  link: https://www.berd-nfdi.de/statistics-for-the-public-good-infrastructures-for-decision-making-research-and-discourse-workshop-series-by-walter-j-radermacher-and-julia-lane/
+  description: 'This self-paced learning module is part of the series “Statistics for the Public Good – Infrastructure Decision Making, Research and Discourse”, which introduces participants to public statistics as a process in which the design, production and communication of information (statistics) are an integral part. As with other products (architecture, furniture, food, cars, smartphones, etc.), the aim is to optimize the design (form) in relation to the use (function) of the products (“form follows function”).
+
+Learn about the DNA of official statistics, what quality means and how to achieve it, especially under the challenges of modern societies. In times of data revolution, artificial intelligence and a ubiquitous flood of permanently produced and consumed information, orientation and differentiation of good and less good information, of fact-checks, and of verification of statistical evidence is crucial. The public infrastructure called "official statistics" plays an essential role in this respect.
+
+You will gain access to this online module, when you participate in the in-person workshops of the series.'
+  cal: true
+  start: 000000
+  end: 240000
+  
+- id: 25
+  type: Workshop
+  date: 2022-10-10
+  title: The Public Good Statistics&#58; Let’s talk about Data Culture! by Walter J. Radermacher
+  link: https://www.berd-nfdi.de/statistics-for-the-public-good-infrastructures-for-decision-making-research-and-discourse-workshop-series-by-walter-j-radermacher-and-julia-lane/
+  description: 'This workshop is part of the series “Statistics for the Public Good – Infrastructure Decision Making, Research and Discourse”, which introduces participants to public statistics as a process in which the design, production and communication of information (statistics) are an integral part. As with other products (architecture, furniture, food, cars, smartphones, etc.), the aim is to optimize the design (form) in relation to the use (function) of the products (“form follows function”).
+
+You will get to know the conditions for evidence-based policy to contribute to shaping the transformation processes that arise in times of crisis and to reducing social conflicts to their minimum. In addition to its function as a common language for public (national and international) discourse, public statistics also serve as a data source and partner for research on individual and social behavior.
+
+Convention Theory (“Économie des Conventions”) will be used as a conceptual guide for the exercises and explorations of statistical terrain.'
+  cal: true
+  start: 090000
+  end: 170000
+  
+- id: 26
+  type: Workshop
+  date: 2022-10-11
+  title: Should Government Data Concern or Serve Us? by Julia Lane 
+  link: https://www.berd-nfdi.de/statistics-for-the-public-good-infrastructures-for-decision-making-research-and-discourse-workshop-series-by-walter-j-radermacher-and-julia-lane/
+  description: 'This workshop is part of the series “Statistics for the Public Good – Infrastructure Decision Making, Research and Discourse”, which introduces participants to public statistics as a process in which the design, production and communication of information (statistics) are an integral part. As with other products (architecture, furniture, food, cars, smartphones, etc.), the aim is to optimize the design (form) in relation to the use (function) of the products (“form follows function”).</br>
+There has been a marked surge in the way in which data and evidence are being used in new ways to inform policy in the United States. Although many blue ribbon committees are established whose recommendations are ignored, the U.S. Commission on Evidence-based Policymaking (Evidence Commission) has been one notable exception.Established in 2016, 11 of the 22 recommendations were enacted into law in 2018, including establishing or reinforcing leadership positions, planning processes, data sharing authorities, and privacy protections necessary to modernize the national evidence-building infrastructure. An advisory committee established in the law currently is mulling how to implement the rest, given the twin goals of increasing the value of data for evidence building through access while also ensuring the continued trust of data providers – trust that the access to data will generate evidence that improves policies, and trust that privacy will be respected and confidentiality will be protected. Yet, the interest and need is so great, exciting activities are already underway.</br>
+Historically, states in the U.S. have been remarkably effective in their use of data.  As far back as 1932, U.S. Supreme Court Justice Louis Brandeis argued that states could be “laboratories” of experimentation; that is, states could test the effects of different policies, determine what worked and what didn’t, and lead the way to national programs. States have proven Justice Brandeis right time and again – from Massachusetts’s experiment with health care reform to California’s pollution controls. Now states are innovating and experimenting with ideas about how to best use data to produce evidence and inform policy. A recent conference “Multi-State Data Collaboratives: from Projects to Products to Practice” provided a glimpse into a future of new types of collaborations, new types of measurement and new ways of protecting privacy.  The impact of many state programs – training, human services, criminal justice, and education – is often measured by the labor market outcomes of the individuals they serve, yet each state’s data ends at state lines. That situation has posed problems for states that know their residents often cross state lines to go to school, work, and unfortunately, become incarcerated, particularly when population centers are near to state borders. </br>
+However, a  secure data sharing platform, established with federal dollars as a possible blueprint to inform the Evidence Commission at the start of its deliberations, has proven to be wildly successful in providing the opportunity for states to share highly sensitive data across state lines.  With additional philanthropic and state funding, the data sharing platform provided the core infrastructure needed to enable the establishment of a MidWest state collaborative in 2018 and a series of cross-state data collaborations.  It is a blueprint, based on a five safes framework, that can serve as a roadmap to additional collaborative activities to propel evidence-building forward at an accelerated pace – and how they can lead to new, critically-needed measurements resulting from the massive changes in the economy and society.</br>
+This workshop will provide a discussion of the five safes framework in helping conceptualize and implement the joint determination of risk and utility. It will describe the Coleridge Initiative’s use of the US FedRAMP framework, as well as the FedRAMP approach in more detail, in terms of minimizing risk.  It will then work through the role of training classes in creating value.</br>
+The workshop will feature hands-on examples of how the training class worked with active discussions of what might or might not be applied to the German context.'
+  cal: true
+  start: 140000
+  end: 170000
+  
+- id: 27
+  type: Workshop
+  date: 2022-10-12
+  title: Values, Ethics and What They Mean for Quality by Walter J. Radermacher
+  link: https://www.berd-nfdi.de/statistics-for-the-public-good-infrastructures-for-decision-making-research-and-discourse-workshop-series-by-walter-j-radermacher-and-julia-lane/
+  description: 'This workshop is part of the series “Statistics for the Public Good – Infrastructure Decision Making, Research and Discourse”, which introduces participants to public statistics as a process in which the design, production and communication of information (statistics) are an integral part. As with other products (architecture, furniture, food, cars, smartphones, etc.), the aim is to optimize the design (form) in relation to the use (function) of the products (“form follows function”).</br>
+New data sources and data science methods open up substantial opportunities for research and for improving statistics. However, the integration of traditional and newer methods requires more than the merging of methodology and technology. Rather, it is also a matter of further developing the other dimensions of good information quality, namely those of infrastructure, language and values, simultaneously in an integrative manner in this sense. </br>
+Various use cases relevant to current policy at international and national level will be used, in which the course participants will act as statistical stakeholders with distributed roles.'
+  cal: true
+  start: 090000
+  end: 170000
+  
+- id: 28
+  type: Workshop
+  date: 2022-10-13
+  title: Data 4 Policy&#58; Is the Statistical Era Being Replaced by an Era of Data? by Walter J. Radermacher 
+  link: https://www.berd-nfdi.de/statistics-for-the-public-good-infrastructures-for-decision-making-research-and-discourse-workshop-series-by-walter-j-radermacher-and-julia-lane/
+  description: 'This workshop is part of the series “Statistics for the Public Good – Infrastructure Decision Making, Research and Discourse”, which introduces participants to public statistics as a process in which the design, production and communication of information (statistics) are an integral part. As with other products (architecture, furniture, food, cars, smartphones, etc.), the aim is to optimize the design (form) in relation to the use (function) of the products (“form follows function”).</br>
+In this respect it is about more than just the application of statistical methods. Rather, the focus must be on the questions that a society wants to have answered with solid statistics for its current, pressing and conflict-laden issues. Other aspects then play a role here, namely whether politics values and finances this infrastructure, whether corresponding data literacy is available in the population at large, and so on.</br>
+Various use cases relevant to current policy at international and national level will be used, in which the course participants will act as statistical stakeholders with distributed roles.'
+  cal: true
+  start: 090000
+  end: 170000
+  

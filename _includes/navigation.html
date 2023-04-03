@@ -1,0 +1,42 @@
+        <nav class="c-skiplinks" data-js-module="skiplinks" data-js-item="skip-links">
+	<h6 class="skiplinks__headline">Navigation und Service</h6>
+	<p class="skiplinks__text"><em>Direkt zu:</em></p>
+		<ul class="skiplink__list">
+				<li class="skiplink__list-item">
+					<a class="skiplink__link" href="#r-main">Inhalt</a>
+				</li>
+				<li class="skiplink__list-item">
+					<a class="skiplink__link" data-js-item="skip-links-nav" href="#stacknav">Hauptnavigation</a>
+				</li>
+				<li class="skiplink__list-item">
+					<a class="skiplink__link"
+					   data-js-item="skip-links-search" href="#r-search">Suche</a>
+				</li>
+		</ul>
+</nav> 
+		<header id="header" class="c-header is-scrolled" data-js-module="header" data-js-item="header"> <div class="grid__container">
+		<div class="grid__row">
+		<div class="header__wrapper">
+		<a class="header__logo-wrapper" href="/">
+		<img class="header__logo" src="files/Logo_LMU.svg" alt="Logo Ludwig Maximilians Universität München"/>
+		</a>
+		<div class="header__facilities-title"> <span>AI@LMU</span> </div>
+		<div class="header__navigation-wrapper"> <nav class="c-main-navigation" data-js-module="main-navigation"> <h2 class="main-navigation__headline">Hauptnavigation</h2> <ul class="main-navigation__list">
+		<li class="main-navigation__list-item"> <a href="/updates" class="main-navigation__list-link" ><span class="main-navigation__list-link-text" >Updates</span></a> </li>
+		<li class="main-navigation__list-item"> <a href="/events" class="main-navigation__list-link" ><span class="main-navigation__list-link-text" >Events</span></a> </li>
+		<li class="main-navigation__list-item"> <a href="/people" class="main-navigation__list-link" ><span class="main-navigation__list-link-text" >People</span></a> </li>
+		<li class="main-navigation__list-item"> <a href="/submission" class="main-navigation__list-link" ><span class="main-navigation__list-link-text" >Submission</span></a> </li>
+		<li class="main-navigation__list-item"> <a href="/donations" class="main-navigation__list-link" ><span class="main-navigation__list-link-text" >Donations</span></a> </li>	
+		<li id="hamburgermenu" class="main-navigation__list-item is-bordered is-last"> <hamburger-menu-app></hamburger-menu-app> </li> </ul> </nav> </div> </div> </div> </div> </header>
+<script>
+		var url_json_mainnav = "files/standard-json-navigation-generating-site.json";
+		url_json_mainnav = url_json_mainnav + "?nocache=" + (new Date()).getTime();
+	function vuenaviload() {LmuStackNavigation.init({config: {menuId: "",url: url_json_mainnav,fallbackError: {title: "Die Navigation funktioniert gerade nicht!",text: "Wir arbeiten daran. Bitte nutzen Sie bis dahin die Sitemap zum Navigieren in der Website."},lngVersions: {"settings": {"navigationClasses": "is-language","navigationJsItem": "2"},"content": {}}}});};
+	window.addEventListener("load", vuenaviload);
+</script>
+<div id="stacknav">
+<stack-navigation-app></stack-navigation-app>
+</div>
+<div id="mobilenav">
+<mobile-navigation-app></mobile-navigation-app>
+</div>

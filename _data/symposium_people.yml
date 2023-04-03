@@ -1,0 +1,72 @@
+- last: Kutyniok
+  firsts: Gitta
+  title: Prof. Dr.
+  chair: Bavarian AI Chair for Mathematical Foundations of Artificial Intelligence
+  chairLink: https://www.ai.math.lmu.de/kutyniok
+  interests: Applied Harmonic Analysis, Compressed Sensing, Explainability of Deep Neural Networks, AI-Based Approaches to Imaging Science, High-Dimensional Data Science, Mathematical Foundations of Deep Learning, and Applications of AI to Life Sciences, Robotics, and Telecommunication
+  image: files/gitta_2.jpg
+  mail: kutyniok@math.lmu.de
+
+- last: Donkin
+  firsts: Chris
+  chairLink: http://www2.psy.unsw.edu.au/Users/CDonkin/home.htm
+  title: Prof.
+  chair: Bavarian AI Chair for Cognitive Psychology
+  image: files/chris-1-225x300.jpg
+  interests: Interested in cognitive psychology, particularly in developing and testing computational and mathematical models of cognitive processes
+  after: ", Ph.D."
+
+- last: Feuerriegel
+  firsts: Stefan
+  title: Prof. Dr.
+  chair: Institute of Artificial Intelligence (AI) in Management
+  chairLink: https://www.ai.bwl.uni-muenchen.de/personen/professoren/feuerriegel/index.html
+  interests: AI for Businesses, Public Organizations, and Health Management
+  image: files/2021_12_01lmu0566_Feuerriegel_S.jpg
+  mail: feuerriegel@lmu.de
+
+- last:  Gruen
+  firsts: Daniel
+  title: Prof. Dr.
+  chair: Bavarian AI Chair for Astrophysics, Cosmology and Artificial Intelligence 
+  chairLink: https://www.physik.lmu.de/de/ueber-die-fakultaet-fuer-physik/personen/gruen-2.html
+  interests: Extragalactic Surveys, Cosmology, Gravitational Lensing Effect, Artificial Intelligence
+  image: files/gruen-daniel-now_1_1_format_m.jpg
+  mail: Daniel.Gruen@lmu.de
+  
+- last: Hüllermeier
+  firsts: Eyke
+  title: Prof. Dr.
+  chair: Bavarian AI Chair for Artificial Intelligence and Machine Learning
+  chairLink:  https://www.kiml.ifi.lmu.de/team/huellermeier/
+  interests: His research interests are centered around methods and theoretical foundations of artificial intelligence, with a specific focus on machine learning and reasoning under uncertainty
+  image: files/huellermeier2.jpg
+  mail: eyke@ifi.lmu.de 
+  theme: AI and Machine Learning
+  
+- last: Kirby
+  firsts: James
+  title: Prof.
+  chair: Bavarian AI Chair of Spoken Language Processing
+  chairLink: https://www.phonetik.uni-muenchen.de/~jkirby/
+  interests: Sound Change, Computational and Statistical Methods in Phonetics, Tone and Register, Language and Music, Languages of Southeast Asia
+  image: files/JPK_NIK_0265.jpeg
+  mail: jkirby@phonetik.uni-muenchen.de
+  after: ", Ph.D."
+
+- last: Ommer 
+  firsts: Björn
+  title: Prof. Dr.
+  chair: Bavarian AI Chair and Head Of The Machine Vision & Learning Group
+  chairLink: https://ommer-lab.com/people/ommer/
+  interests: Semantic Image and Video Understanding based on (Deep) Machine Learning, Generative Approaches For Visual Synthesis, Invertible Deep Models For Explainable AI, Deep Metric and Representation Learning, Self-Supervised Learning Paradigms and their Interdisciplinary Applications in the Digital Humanities and Neuroscience
+  image: files/bjorn.jpeg
+  mail: b.ommer@lmu.de
+
+- last: Plank
+  firsts: Barbara
+  chairLink: https://bplank.github.io
+  title: Prof. Dr.
+  chair: Bavarian AI Chair of AI and Computational Linguistics
+  image: files/barbara.png
+  interests: Natural language processing, machine learning, deep learning, domain adaptation, multilingual NLP, multitask learning, transfer learning, parsing, sequence tagging, opinion mining, information extraction, NLP for social media

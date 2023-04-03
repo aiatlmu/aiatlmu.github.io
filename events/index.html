@@ -1,0 +1,72 @@
+---
+layout: default
+title: AI@LMU Events
+---
+	<div class="c-stage--default" data-css="c-stage">
+	<div class="stage__wrapper">
+			<div class="stage__image-section-wrapper">
+				<div class="stage__image-section">
+					<figure class="c-figure--header-landingpage" data-css="c-figure" data-js-module="true">
+						<div class="figure__wrapper">
+							<picture class="c-picture--animated-objects lazyloaded" data-css="c-picture">
+								<!--[if IE 9]><audio><![endif]-->
+								<source data-srcset="files/HorsaaLMU_ID679_2.jpg" sizes="1440px" srcset="files/HorsaaLMU_ID679_2.jpg">
+								<source data-srcset="files/HorsaaLMU_ID679_2.jpg" sizes="1440px" srcset="files/HorsaaLMU_ID679_2.jpg">
+								<!--[if IE 9]></audio><![endif]-->
+								<img class="picture__image lazyautosizes lazyloaded" src="files/HorsaaLMU_ID679_2.jpg" sizes="1440px" data-sizes="auto">
+							</picture>
+						</div>
+					</figure>
+				</div>
+			</div>
+		<div class="grid__container">
+			<div class="grid__row">
+				<div class="stage__text-box is-bg-dark ">
+					<div class="stage__text-box-content">
+						<h1 class="stage__text-box-headline">Events</h1>
+						<p class="stage__text-box-text">Upcoming Events at LMU in AI</p>
+					</div>
+				</div>
+			</div>
+		</div>
+	</div>
+</div>
+{%- assign buildTimeInSecondsInEpoch = site.time | date: "%s" | plus: 0 -%}
+
+{% assign sorted = site.data.events | sort: 'date' %}
+<div class="c-filterable-list--jobs" data-css="c-filterable-list">
+			<div class="grid__container">
+				<div class="grid__row">
+					<div class="filterable-list__list-wrapper">
+		    <a id="catId_50" name="catId_50"></a>		
+							<ul class="filterable-list__list">		
+							<li class="filterable-list__list-item" tabindex="-1">
+									<div class="filterable-list__list-item-text-wrapper">
+										
+											<a class="filterable-list__list-item-link" href="/calendar.ics">Subscribe to events with iCal</a>
+									</div>
+								</li>  
+				{% for event in sorted %}
+				{%- assign pageDateInSecondsInEpoch = event.date | date:"%s" | plus: 0 -%}
+				{% if event.date_end and event.date_end != "" and event.date_end != nil %}
+   {%- assign pageDateInSecondsInEpoch = event.date_end | date:"%s" | plus: 0 -%}
+{% endif %}
+    {%- if pageDateInSecondsInEpoch >= buildTimeInSecondsInEpoch -%}
+								  <li class="filterable-list__list-item" tabindex="-1">
+									<div class="filterable-list__list-item-text-wrapper">
+										<em class="filterable-list__list-item-meta">{{ event.type }}  •  {% if event.date_text and event.date_text != "" and event.date_text != nil %}
+   {{ event.date_text }}
+{% else %}
+   {{event.date | date: "%-d %B %Y" }}
+{% endif %}</em>
+											<a class="filterable-list__list-item-link" href="{{ event.link }}">{{ event.title }}</a>
+										<p class="filterable-list__list-item-description">{{ event.description }}</p>
+									</div>
+								</li>  
+    {%- endif -%}
+{% endfor %}
+							</ul>						
+					</div>
+				</div>
+			</div>
+		</div>

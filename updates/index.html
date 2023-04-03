@@ -1,0 +1,66 @@
+---
+layout: default
+title: AI@LMU Updates
+---
+
+	<div class="c-stage--default" data-css="c-stage">
+	<div class="stage__wrapper">
+			<div class="stage__image-section-wrapper">
+				<div class="stage__image-section">
+					<figure class="c-figure--header-landingpage" data-css="c-figure" data-js-module="true">
+						<div class="figure__wrapper">
+							<picture class="c-picture--animated-objects lazyloaded" data-css="c-picture">
+								<!--[if IE 9]><audio><![endif]-->
+								<source data-srcset="files/press_small.jpg" sizes="1440px" srcset="files/press_small.jpg">
+								<source data-srcset="files/press_small.jpg" sizes="1440px" srcset="files/press_small.jpg">
+								<!--[if IE 9]></audio><![endif]-->
+								<img class="picture__image lazyautosizes lazyloaded" src="files/press_small.jpg" sizes="1440px" data-sizes="auto">
+							</picture>
+						</div>
+					</figure>
+				</div>
+			</div>
+		<div class="grid__container">
+			<div class="grid__row">
+				<div class="stage__text-box is-bg-dark ">
+					<div class="stage__text-box-content">
+						<h1 class="stage__text-box-headline">Updates</h1>
+						<p class="stage__text-box-text">News from AI projects and initiatives at LMU</p>
+					</div>
+				</div>
+			</div>
+		</div>
+	</div>
+</div>
+<div class="c-three-column-img-text--nobutton" data-css="c-three-column-img-text">
+	<div class="grid__container">
+		<div class="grid__row">
+			<div class="three-column-img-text__container">
+				<div class="three-column-img-text__wrapper">	
+  {% for post in site.posts %}			    
+<div class="three-column-img-text__column">
+	<div class="three-column-img-text__picture-container">
+			<figure class="c-figure--default is-no-margin" data-css="c-figure" data-js-module="overlay-handler">
+				<div class="figure__wrapper">
+					<picture class="c-picture--default three-column-img-text__picture lazyloaded" data-css="c-picture">
+							<!--[if IE 9]><audio><![endif]-->
+								<source data-srcset={{  post.image}} sizes="246px" srcset={{ post.image }}>
+							<!--[if IE 9]></audio><![endif]-->
+							<a href={{ post.url }}><img class="picture__image lazyautosizes lazyloaded" src={{ post.image }} alt="" data-sizes="auto" sizes="246px"></a>
+					</picture>
+				</div>
+			</figure>
+	</div>
+	<div class="three-column-img-text__text is-linkbox">
+				<div class="three-column-img-text__box-headline">{{ post.title }}</div>
+		<p class="three-column-img-text__box-content">{{ post.date | date_to_long_string}}</p>
+<a class="three-column-img-text__link is-internal" href={{ post.url }}>Weiterlesen</a>
+<a href={{ post.url }} class="three-column-img-text__a11y-clickarea" aria-hidden="true" tabindex="-1"></a>
+	</div>
+</div>
+  {% endfor %}
+				</div>
+			</div>
+		</div>
+	</div>
+</div>

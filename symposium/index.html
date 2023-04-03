@@ -1,0 +1,83 @@
+---
+layout: default
+title: AI Symposium
+small_im: true
+---
+<div class="c-header-news-detail--news" data-css="c-header-news-detail" data-js-module="header-news-detail">
+	<div class="grid__container">
+		<div class="grid__row">
+			<div class="header-news-detail__container">
+				<article class="header-news-detail__wrapper">
+					<div class="header-news-detail__iconarea">
+						<div class="header-news-detail__icon" title="Icon News"><span class="header-news-detail__icon-text">News</span></div>
+					</div>
+					<div class="header-news-detail__content">
+								<h1 class="header-news-detail__headline">Symposium on AI Research at LMU</h1>
+								<p class="header-news-detail__date">1 June 2022, 6:30 pm to 8:15 pm</p>
+								<p>Meet the eight newly appointed Bavarian AI Chairs at LMU Munich and join a panel discussion on the next generation of AI research from the different disciplinary perspectives</p>
+					</div>
+				</article>
+			</div>
+		</div>
+	</div>
+</div>
+{% assign sorted = site.data.symposium_people | sort: 'last' %}
+
+		
+		
+		<article class="c-rte--default" data-css="c-rte">
+<div class="rte__container"> 
+		<div class="rte__content">
+	
+				<figure class="c-figure--rte is-rte-embed is-right" data-css="c-figure" data-js-module="overlay-handler">
+					<div class="figure__wrapper">
+						<picture class="c-picture--default lazyloaded" data-css="c-picture">
+							<!--[if IE 9]><audio><![endif]-->
+							<source data-srcset="files/CAS_Web-Icon_Ai_602x462px_PNG24-1_auto_x2.jpg" sizes="411px" srcset="files/CAS_Web-Icon_Ai_602x462px_PNG24-1_auto_x2.jpg">
+							<!--[if IE 9]></audio><![endif]-->
+							<img class="picture__image lazyautosizes lazyloaded" src="files/CAS_Web-Icon_Ai_602x462px_PNG24-1_auto_x2.jpg" alt="Image of poster reading 'CAS Research Focus: NEXT GENERATION AI'" data-sizes="auto" sizes="411px">
+						</picture>
+					</div>
+						<figcaption class="figure__caption">
+						</figcaption>
+				</figure>
+  			
+				<p>In order to expand the research network on artificial intelligence in Bavaria, 100 new AI chairs were established across the state. The first Bavarian LMU AI chairs are 
+				<a class="anchor-nav__link" href="symposium/#Donkin" data-js-item="anchor-link">Prof. Chris Donkin, Ph.D.</a>, 
+				<a class="anchor-nav__link" href="symposium/#Feuerriegel" data-js-item="anchor-link">Prof. Dr. Stefan Feuerriegel</a>, 
+				<a class="anchor-nav__link" href="symposium/#Gruen" data-js-item="anchor-link">Prof. Dr. Daniel Gruen</a>, 
+				<a class="anchor-nav__link" href="symposium/#Hüllermeier" data-js-item="anchor-link">Prof. Dr. Eyke Hüllermeier</a>, 
+				<a class="anchor-nav__link" href="symposium/#Kirby" data-js-item="anchor-link">Prof. James Kirby, Ph.D.</a>, 
+				<a class="anchor-nav__link" href="symposium/#Kutyniok" data-js-item="anchor-link">Prof. Dr. Gitta Kutyniok</a>,
+				<a class="anchor-nav__link" href="symposium/#Ommer" data-js-item="anchor-link">Prof. Dr. Björn Ommer</a>, and 
+				<a class="anchor-nav__link" href="symposium/#Plank" data-js-item="anchor-link">Prof. Dr. Barbara Plank</a>.
+				After a welcome address by the president of LMU, Prof. Dr. Dr. h.c. Bernd Huber, and opening remarks by the director of the Center for Advanced Studies, Prof. Dr. Christof Rapp, the newly appointed chairholders will introduce themselves and their various research approaches at this symposium. A panel moderated by Prof. Dr. Frauke Kreuter will then discuss the next generation of AI research at LMU, followed by a buffet.</p>
+
+<p>The symposium is part of the CAS Research Focus <a href="https://www.cas.uni-muenchen.de/schwerpunkte/next_generation_ai/index.html">"Next Generation AI"</a>.</p>
+<p>Location: LMU, Große Aula, Geschwister-Scholl-Platz 1, 80539 Munich. The program is available <a href="/files/ProgramSymposium.pdf">here</a>.</p>
+<p>The event is open to the public and we kindly ask you to register by sending a quick email to <a href="mailto:info@cas.lmu.de">info@cas.lmu.de</a>.</p>
+</p>
+
+	</div>
+	</div>
+
+
+				{% for person in sorted %}
+<a id="st_img_text__master_{{ forloop.index }}" name="st_img_text__master_{{ forloop.index }}"></a>
+<a id="{{ person.last }}" name="{{ person.last }}"></a>
+  <div class="container">
+   <div class="column-1 box"style="order: {% cycle 2,1 %}">
+					<a href="{{ person.chairLink }}">
+						<img src="{{ person.image }}" alt="Image of {{ person.title }} {{ person.firsts }} {{ person.last }}{{ person.after }}{% if person.credit %}, Credit: {{person.credit}}{% endif %}" >
+					</a>
+   </div>
+   <div class="column-2 box" style="order: {% cycle 1,2 %}">
+   <h2>{{ person.title }} {{ person.firsts }} {{ person.last }}{{ person.after }}</h2>
+	
+				<p style="margin-bottom: 10px;"><a class="is-external	" href="{{ person.chairLink }}">{{ person.chair }}</a></p>
+				
+				<p><b>Research interests:</b> {{ person.interests }}</p>
+   </div>
+</div>
+{% endfor %}
+			</article>

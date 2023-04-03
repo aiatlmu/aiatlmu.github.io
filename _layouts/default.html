@@ -1,0 +1,62 @@
+{% include header.html %}
+	<head>
+<title>{{ page.title}}</title>
+	<base href="../">
+	{% include header2.html %}
+	{% if page.small_im %}
+    <style>
+  .container{
+    display:flex;
+  padding-left: 10%;
+  padding-right: 10%;
+  padding-bottom: 20px;
+  position: relative;
+	}
+
+.column-1 {
+  flex-shrink: 0;
+  flex-basis: 30%;  
+  position: relative;
+}
+
+.column-2 {
+  padding-left: 10%;
+  padding-right: 10%;
+}
+
+.box {
+}
+
+@media only screen and (max-width: 700px) {
+  .container {
+      /* it place the items in vertical direction */
+    flex-direction: column;
+  }
+
+.column-1 {
+  order:1 !important;
+  padding-left: 20%;
+  padding-right: 20%;
+}
+
+.column-2 {
+  order:2 !important;
+}
+
+  .box {
+    margin: 0 0 1rem;
+  }
+}
+    </style>
+  {% endif %}
+	
+	</head>
+	<body>
+{% include navigation.html %}
+		<main id="r-main" data-js-item="main">
+
+{{ content }}
+	{% include footer.html %}
+	</body>
+</html>
+ 

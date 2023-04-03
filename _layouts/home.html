@@ -1,0 +1,39 @@
+{% include header.html %}
+	<head>
+	{% include header2.html %}
+<title>{{page.title}}</title>
+	</head>
+    <style>
+    @media only screen{
+  .big {
+  font-size: 3rem !important;
+  }	 
+    }
+    @media only screen and (min-width: 786px) {
+  .big {
+  font-size: 4rem !important;
+  }
+    }
+    @media only screen and (min-width: 1280px) {
+  .big {
+  font-size: 5rem !important;
+  }
+    }
+    </style>
+	<body>
+{% include navigation.html %}
+		<main id="r-main" data-js-item="main">
+
+{{ content }}
+
+	{% include footer.html %}
+	<script>
+	var today = new Date();
+	const monthNames = ["Jan", "Feb", "Mar", "Apr", "May", "Jun",
+  "Jul", "Aug", "Sep", "Oct", "Nov", "Dec"
+];
+	document.getElementById("currentDate").innerHTML = today.getDate();
+	document.getElementById("currentMonth").innerHTML =  monthNames[today.getMonth()]
+	</script>
+	</body>
+</html>

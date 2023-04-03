@@ -1,0 +1,138 @@
+---
+layout: home
+title: AI@LMU
+---
+
+	<div class="c-stage-frontpage--default" data-css="c-stage-frontpage" >
+		<div class="grid__container">
+			<div class="stage-frontpage__image-wrapper">
+				<figure class="c-figure--header-frontpage" data-css="c-figure" data-js-module="true">
+					<div class="figure__wrapper">
+							<picture class="c-picture--animated-objects lazyload" data-css="c-picture">
+									<!--[if IE 9]><audio><![endif]-->
+									<source data-srcset="files/robot_back_small.jpg" sizes="(min-width: 768px) 66.66667vw, (min-width:1100px) 50vw, calc(100vw - ((100vw / 14) * 2))"/>
+									<!--[if IE 9]></audio><![endif]-->
+									<img class="picture__image lazyload" src="files/robot_back_small.jpg" data-sizes="auto" />
+								</picture>
+					</div>
+				</figure>
+			</div>
+			<div class="stage-frontpage__row">
+				<div class="stage-frontpage__large-teaser">
+					<div class="stage-frontpage__large-teaser-content">
+						<h1 class="stage-frontpage__headline">News from the AI Community at LMU</h1>
+						<p class="stage-frontpage__large-teaser-paragraph">Find the latest news and upcoming events from the various groups researching artificial intelligence and its applications at LMU Munich</p>
+						<a class="stage-frontpage__large-teaser-a11y-clickarea" href="updates" aria-hidden="true" tabindex="-1"></a>
+					</div>
+				</div>
+				<div class="stage-frontpage__teaser-collect-wrapper">
+					<div class="stage-frontpage__teaser-collect is-first">
+						<div class="stage-frontpage__teaser is-bg-dark">
+							<div class="stage-frontpage__teaser-content">
+								<article class="c-teaser-single--event" data-css="c-teaser-single">
+									<div class="teaser-single__text-section">
+										<div class="teaser-single__news">
+											<div class="teaser-single__news-text">News</div>
+										</div>
+										<h3 class="teaser-single__headline is-stage-frontpage">Updates</h3>
+									</div>
+									<a class="teaser-single__link" href="updates">Weiterlesen</a>
+									<a href="updates" class="teaser-single__a11y-clickarea" aria-hidden="true" tabindex="-1">
+									</a>
+								</article>
+							</div>
+						</div>
+						<div class="stage-frontpage__teaser is-bg-light">
+							<div class="stage-frontpage__teaser-content">
+								<article class="c-teaser-single--event" data-css="c-teaser-single">
+									<div class="teaser-single__text-section">					
+										<div class="teaser-single__dates">
+											<div class="teaser-single__date">
+												<span id="currentDate" class="teaser-single__date-day">{{ site.time | date: "%d"}}</span>
+												<abbr id="currentMonth" class="teaser-single__date-month">{{ site.time | date: "%b"}}</abbr>
+											</div>
+										</div>
+										<h3 class="teaser-single__headline is-stage-frontpage">Events</h3>
+									</div>
+									<a class="teaser-single__link" href="events">Weiterlesen</a>
+									<a href="events" class="teaser-single__a11y-clickarea" aria-hidden="true" tabindex="-1">
+									</a>
+								</article>
+							</div>
+						</div>
+					</div>
+					<div class="stage-frontpage__teaser-collect is-second">
+						<div class="stage-frontpage__teaser is-bg-dark">
+							<div class="stage-frontpage__teaser-content">
+								<article class="c-teaser-single--default" data-css="c-teaser-single">
+									<div class="teaser-single__text-section">					
+										<div class="teaser-single__dates">
+											<div class="teaser-single__date">
+												<span class="teaser-single__date-day big" style="font-family:serif">🗎</span>
+											</div>
+										</div>
+										<h3 class="teaser-single__headline is-stage-frontpage">People</h3>
+									</div>
+									<a class="teaser-single__link" href="people">Weiterlesen</a>
+									<a href="people" class="teaser-single__a11y-clickarea" aria-hidden="true" tabindex="-1">
+									</a>
+								</article>
+							</div>
+						</div>
+						<div class="stage-frontpage__teaser is-bg-green">
+							<div class="stage-frontpage__teaser-content">
+								<article class="c-teaser-single--default" data-css="c-teaser-single">
+									<div class="teaser-single__text-section">					
+										<div class="teaser-single__dates">
+											<div class="teaser-single__date">
+												<span class="teaser-single__date-day big">✉</span>
+											</div>
+										</div>
+										<h3 class="teaser-single__headline is-stage-frontpage">Send us your news</h3>
+									</div>
+									<a class="teaser-single__link" href="submission">Weiterlesen</a>
+									<a href="submission" class="teaser-single__a11y-clickarea" aria-hidden="true" tabindex="-1">
+								</article>
+									</a>
+							</div>
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+	</div>
+	
+	<div class="c-three-column-img-text--nobutton" data-css="c-three-column-img-text">
+	<div class="grid__container">
+		<div class="grid__row">
+			<div class="three-column-img-text__container">
+					<h2 class="three-column-img-text__main-headline">Newest Updates</h2>
+				<div class="three-column-img-text__wrapper">	
+  {% for post in site.posts limit: 3 %}			    
+<div class="three-column-img-text__column">
+	<div class="three-column-img-text__picture-container">
+			<figure class="c-figure--default is-no-margin" data-css="c-figure" data-js-module="overlay-handler">
+				<div class="figure__wrapper">
+<a href={{ post.url }}>
+					<picture class="c-picture--default three-column-img-text__picture lazyloaded" data-css="c-picture">
+							<!--[if IE 9]><audio><![endif]-->
+								<source data-srcset={{  post.image}} sizes="246px" srcset={{ post.image }}>
+							<!--[if IE 9]></audio><![endif]-->
+							<img class="picture__image lazyautosizes lazyloaded" src={{ post.image }} alt="" data-sizes="auto" sizes="246px">
+					</picture></a>
+				</div>
+			</figure>
+	</div>
+	<div class="three-column-img-text__text is-linkbox">
+				<div class="three-column-img-text__box-headline">{{ post.title }} </div>
+		<p class="three-column-img-text__box-content"></p>
+<a class="three-column-img-text__link is-internal" href={{ post.url }}>Weiterlesen</a>
+<a href={{ post.url }} class="three-column-img-text__a11y-clickarea" aria-hidden="true" tabindex="-1"></a>
+	</div>
+</div>
+  {% endfor %}
+				</div>
+			</div>
+		</div>
+	</div>
+</div>
