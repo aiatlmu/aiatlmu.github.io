@@ -403,3 +403,116 @@ The Bavarian State Minister of Science, Markus Blume, the Minister for Digital A
   cal: true
   start: 140000
   end: 153000
+
+- id: 34
+  type: Talk
+  date: 2023-04-20
+  title: My AI must have been broken. Understanding our Future of AI-Mediated Communication with Prof. Dr. Mor Naaman
+  link: https://www.som.lmu.de/ai/en/update/events-overview/event/ai-keynote-series.html
+  description: 'We, the Institute of AI in Management at LMU Munich, are excited about AI in management and the dynamic developments in this field. That is why we would like to provide first-hand insights into the latest research work, granted by high profile scientists from all over the world. We are very honoured to be able to win great guest speakers for the keynotes every semester.
+  
+  All session will be available via Zoom for everyone who is interested. We aim to provide an overview of current trends in AI research. The weekly sessions, on Thursdays, consist of 45-60 minutes of presentation, followed by discussion, feedback and QA. We are looking forward to seeing you there.'
+  cal: true
+  start: 140000
+  end: 160000
+
+- id: 35
+  type: Talk
+  date: 2023-05-25
+  title: AI Keynote with Prof. Dr. Vasilis Syrgkanis, Stanford University. Topic tbd.
+  link: https://www.som.lmu.de/ai/en/update/events-overview/event/ai-keynote-series.html
+  description: 'We, the Institute of AI in Management at LMU Munich, are excited about AI in management and the dynamic developments in this field. That is why we would like to provide first-hand insights into the latest research work, granted by high profile scientists from all over the world. We are very honoured to be able to win great guest speakers for the keynotes every semester.
+  
+  All session will be available via Zoom for everyone who is interested. We aim to provide an overview of current trends in AI research. The weekly sessions, on Thursdays, consist of 45-60 minutes of presentation, followed by discussion, feedback and QA. We are looking forward to seeing you there.'
+  cal: true
+  start: 180000
+  end: 200000
+
+- id: 36
+  type: Talk
+  date: 2023-06-15
+  title: AI Keynote with Prof. Dr. Ahmed M. Alaa, Berkley University of California. Topic tbd.
+  link: https://www.som.lmu.de/ai/en/update/events-overview/event/ai-keynote-series.html
+  description: 'We, the Institute of AI in Management at LMU Munich, are excited about AI in management and the dynamic developments in this field. That is why we would like to provide first-hand insights into the latest research work, granted by high profile scientists from all over the world. We are very honoured to be able to win great guest speakers for the keynotes every semester.
+  
+  All session will be available via Zoom for everyone who is interested. We aim to provide an overview of current trends in AI research. The weekly sessions, on Thursdays, consist of 45-60 minutes of presentation, followed by discussion, feedback and QA. We are looking forward to seeing you there.'
+  cal: true
+  start: 180000
+  end: 200000
+
+- id: 37
+  type: Talk
+  date: 2023-07-06
+  title: AI Keynote with Prof. Dr. Lu Cheng, University of Illinois Chicago. Topic tbd.
+  link: https://www.som.lmu.de/ai/en/update/events-overview/event/ai-keynote-series.html
+  description: 'We, the Institute of AI in Management at LMU Munich, are excited about AI in management and the dynamic developments in this field. That is why we would like to provide first-hand insights into the latest research work, granted by high profile scientists from all over the world. We are very honoured to be able to win great guest speakers for the keynotes every semester.
+  
+  All session will be available via Zoom for everyone who is interested. We aim to provide an overview of current trends in AI research. The weekly sessions, on Thursdays, consist of 45-60 minutes of presentation, followed by discussion, feedback and QA. We are looking forward to seeing you there.'
+  cal: true
+  start: 180000
+  end: 200000
+
+- id: 38
+  type: Talk
+  date: 2023-07-27
+  title: AI Keynote with Prof. Dr. Dokyun Lee, Boston University. Topic tbd.
+  link: https://www.som.lmu.de/ai/en/update/events-overview/event/ai-keynote-series.html
+  description: 'We, the Institute of AI in Management at LMU Munich, are excited about AI in management and the dynamic developments in this field. That is why we would like to provide first-hand insights into the latest research work, granted by high profile scientists from all over the world. We are very honoured to be able to win great guest speakers for the keynotes every semester.
+  
+  All session will be available via Zoom for everyone who is interested. We aim to provide an overview of current trends in AI research. The weekly sessions, on Thursdays, consist of 45-60 minutes of presentation, followed by discussion, feedback and QA. We are looking forward to seeing you there.'
+  cal: true
+  start: 170000
+  end: 190000
+
+- id: 39
+  type: Talk
+  date: 2023-05-10
+  title: Accounting for Uncertainty when Forecasting Armed Conflict
+  link: https://www.cas.uni-muenchen.de/veranstaltungen/veranstaltungskalender_sose/cas_programm_sose_2023.pdf
+  description: 'Prof. Dr. Håvard Hegre presents the VIEWS armed conflict early-warning system and discusses the uncertainties of armed conflict forecasting in light of a review of its performance. There are still several sources of uncertainty. At the most fundamental level, decisions to use armed force are always associated with aspects of deception, hidden agendas, misrepresentation and bluffing, as well as over-confidence and sheer incompetence. According to rationalist models of conflict, “war is in the error term”. Compounding the problem, the most surprising changes are also the ones that we are most interested in – early-warning systems arguable are more useful if they can predict the unexpected, maybe even at the expense of predicting the expected conflicts.'
+  cal: true
+  start: 190000
+  end: 210000
+
+- id: 40
+  type: Talk
+  date: 2023-05-10
+  title: Opportunities and Limitations for Deep Learning in the Sciences
+  link: https://www.cas.uni-muenchen.de/veranstaltungen/veranstaltungskalender_sose/cas_programm_sose_2023.pdf
+  description: 'In a recent effort to push modern tools from machine learning into several areas of science and engineering, deep learning based methods have emerged as a promising alternative to classical numerical schemes for solving problems in the computational sciences – example applications include fluid dynamics, computational finance, or computational chemistry. Philipp Grohs illuminates the limitations and opportunities of this approach, both on a mathematical and an empirical level.'
+  cal: true
+  start: 190000
+  end: 210000
+
+- id: 41
+  type: Panel Discussion
+  date: 2023-07-13
+  title: Generative AI in the Industry, Media, and Beyond. Chances and Challenges of Stable Diffusion
+  link: https://www.cas.uni-muenchen.de/veranstaltungen/veranstaltungskalender_sose/cas_programm_sose_2023.pdf
+  description: 'Stable Diffusion is a text-to-image AI-model capable of generating photo-realistic images given merely a textual description of the desired image content. This makes it possible to generate images quite easily without requiring special artistic skills, computer knowledge, or computer hardware and in a matter of seconds. In the few months since its release, it has become an enabling technology and platform for a large body of further research, numerous start-ups, and industrial applications. Having millions of daily users already and being among the fastest adopted open-source projects, Stable Diffusion has shown a great transformative potential with impact on many practical application areas. The opportunities, challenges, and the changes that the use of Stable Diffusion brings will be discussed in this panel with the automotive industry and image agencies as examples.
+  
+  Featuring  Thiemo Fieger ist Leiter des Programms „Algorithmic Engineering
+& AI“ bei BMW. n Björn Ommer leitet die Computer Vision &
+Learning-Arbeitsgruppe an der LMU und hat den Stable Diffusion
+zugrundeliegenden Algorithmus entwickelt. n Christian Schiffer
+ist Journalist, Moderator beim BR und Co-Autor des Tech-Podcasts
+Umbruch von BR24. n Martin Skultety ist Geschäftsführer der Bild-
+agentur Image Professionals in München'
+  cal: true
+  start: 190000
+  end: 210000
+
+- id: 42
+  type: Workshop
+  date: 2023-10-09
+  date_end: 2023-10-10
+  title: AI Double Feature. Neuro-Symbolic AI / AI and Sustainability
+  link: https://www.cas.uni-muenchen.de/veranstaltungen/veranstaltungskalender_sose/cas_programm_sose_2023.pdf
+  description: 'Workshop unter Leitung von Prof. Dr. Eyke Hüllermeier, Prof. Dr. Göran Kauermann und Prof. Dr. Hinrich Schütze (LMU). In spite of the tremendous success of machine learning, especially in its modern guise of deep learning, purely statistical, data-driven approaches to artificial intelligence (AI) are still lacking the commonsense abilities that distinguishes humans from machines. Neuro-symbolic AI is a new branch of AI that seeks to combine the best of both worlds, data-driven learning and inductive inference on the one side, and more human-like symbolic reasoning and knowledge processing on the other. This AI double-feature workshop discusses the latest developments in the field of neuro-symbolic AI as well as the impact of AI on sustainable development.</br>
+Workshop am Montag, 9. Oktober 2023</br>
+Neuro-Symbolic AI</br>
+Workshop am Dienstag, 10. Oktober 2023</br>
+AI and Sustainability'
+  cal: true
+  start: 100000
+  end: 180000
