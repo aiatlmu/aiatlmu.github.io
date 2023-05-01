@@ -5,7 +5,7 @@ image: files/Luftbild_Haupt.jpg
 excerpt: Scientists from diverse faculties have taken the next step towards a Data Science and Artificial Intelligence Center at LMU
 ---
 
-As continuation of the successful CAS research focus [Next Generation AI](https://www.en.cas.uni-muenchen.de/research_focus/next_generation_ai/index.html) and in accordance with the unique position of LMU in the AI-revolution of our society, a founding member meeting has prepared for a Data Science and Artificial Intelligence Center at LMU. 
+As continuation of the successful CAS research focus [Next Generation AI](https://www.en.cas.uni-muenchen.de/research_focus/next_generation_ai/index.html) and in accordance with the unique position of LMU in the AI-revolution of our society, a founding member meeting with researchers from various faculties took place for the preparation of a Data Science and Artificial Intelligence Center at LMU.
 
 Artificial Intelligence will change our society in an unprecedented way in the coming years with the area of data science playing a similarly crucial role due to the heavy dependence of artificial intelligence on high quality training data. This very rapidly developing massive transformation of our society has already by now a tremendous impact on the sciences such as on methodological sciences (computer science, mathematics, statistics) for developing reliable AI approaches, on economics for preparing the future economy, on legal studies for developing new laws and regulations, or on social studies for analyzing societal and ethical impacts.
 
