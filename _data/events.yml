@@ -475,14 +475,14 @@ The Bavarian State Minister of Science, Markus Blume, the Minister for Digital A
   end: 210000
 
 - id: 40
-  type: Talk
-  date: 2023-05-10
+  type: Lunch Talk
+  date: 2023-05-22
   title: Opportunities and Limitations for Deep Learning in the Sciences
   link: https://www.cas.uni-muenchen.de/veranstaltungen/veranstaltungskalender_sose/cas_programm_sose_2023.pdf
   description: 'In a recent effort to push modern tools from machine learning into several areas of science and engineering, deep learning based methods have emerged as a promising alternative to classical numerical schemes for solving problems in the computational sciences – example applications include fluid dynamics, computational finance, or computational chemistry. Philipp Grohs illuminates the limitations and opportunities of this approach, both on a mathematical and an empirical level.'
   cal: true
-  start: 190000
-  end: 210000
+  start: 120000
+  end: 140000
 
 - id: 41
   type: Panel Discussion
