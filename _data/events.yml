@@ -516,3 +516,19 @@ AI and Sustainability'
   cal: true
   start: 100000
   end: 180000
+
+
+- id: 43
+  type: Workshop
+  date: 2023-10-09
+  date_end: 2023-10-10
+  title: AI Double Feature. Neuro-Symbolic AI / AI and Sustainability
+  link: https://www.cas.uni-muenchen.de/veranstaltungen/veranstaltungskalender_sose/cas_programm_sose_2023.pdf
+  description: 'Workshop unter Leitung von Prof. Dr. Eyke Hüllermeier, Prof. Dr. Göran Kauermann und Prof. Dr. Hinrich Schütze (LMU). In spite of the tremendous success of machine learning, especially in its modern guise of deep learning, purely statistical, data-driven approaches to artificial intelligence (AI) are still lacking the commonsense abilities that distinguishes humans from machines. Neuro-symbolic AI is a new branch of AI that seeks to combine the best of both worlds, data-driven learning and inductive inference on the one side, and more human-like symbolic reasoning and knowledge processing on the other. This AI double-feature workshop discusses the latest developments in the field of neuro-symbolic AI as well as the impact of AI on sustainable development.</br>
+Workshop am Montag, 9. Oktober 2023</br>
+Neuro-Symbolic AI</br>
+Workshop am Dienstag, 10. Oktober 2023</br>
+AI and Sustainability'
+  cal: true
+  start: 100000
+  end: 180000
