@@ -387,6 +387,14 @@
   image: files/thurner4.jpg
   interests: Electoral Research, Discrete Choice Analysis & Network Analysis, Energy Policy, Foreign Policy, Defence and Security Policy, Transgovernmental Administrative Cooperation
 
+- last: Fraser 
+  firsts: Alexander M.
+  chairLink: https://www.cis.uni-muenchen.de/%7Efraser/
+  title: Prof. Dr.
+  chair: Professor for Information and Language Processing
+  image: files/alex.jpg
+  interests: Machine Translation, Natural Language Processing, Information Retrieval, Transfer Learning, Representation Learning, Domain Adaptation, Digital Inclusion
+
   
 #- last: 
 #  firsts: 
