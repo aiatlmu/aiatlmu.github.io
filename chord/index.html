@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta http-equiv="Content-type" content="text/html; charset=utf-8">
+    <script src="d3.v3.min.js"></script>
+    <script src="jquery-3.2.1.min.js"></script>
+    <link href="style.css" rel="stylesheet" type="text/css"> 
+  </head>
+
+<body>   
+     
+<div class="details">
+             <h1>AI & Robotics </h1>
+             <h2>in the greater Munich area</h2>
+
+<div id="yearbuttons">
+                <button id="matrix_all" class="current">All</button>
+              <button id="matrix_pub" class="">Publications</button>
+              <button id="matrix_proj" class="">Projects</button>
+              <button id="matrix_events" class="">Events</button>
+</div>
+      <!--This script is to highlight each year button while on it-->
+  <script type="text/javascript">
+                         $('#yearbuttons button').on('click', function(){
+                              $('button.current').removeClass('current');
+                              $(this).addClass('current');
+                         });
+  </script>
+
+       
+</div>
+<br>
+  <div id="chart_placeholder"></div>
+    <script type="text/javascript" src="chord.js"></script>
+
+
+</body>
+</html>
