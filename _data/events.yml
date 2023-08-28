@@ -534,7 +534,7 @@ AI and Sustainability'
 
 - id: 44
   type: Workshop
-  date: 2023-11-29
+  date: 2023-09-29
   title: AI-Talk by Yann LeCun&#58; From Machine Learning to Autonomous Intelligence
   link: https://www.ai-news.lmu.de/lecun/
   description: 'How could machines learn as efficiently as humans and animals? How could machines learn to reason and plan? How could machines learn representations of percepts and action plans at multiple levels of abstraction, enabling them to reason, predict, and plan at multiple time horizons? Prof. Dr. Yann LeCun, Chief AI Scientist for Meta AI Research and Silver Professor at the Courant Institute of Mathematical Sciences at New York University will propose a possible path towards autonomous intelligent agents, based on a new modular cognitive architecture and a somewhat new self-supervised training paradigm. The centerpiece of the proposed architecture is a configurable predictive world model that allows the agent to plan. Behavior and learning are driven by a set of differentiable intrinsic cost functions. The world model uses a new type of energy-based model architecture called H-JEPA (Hierarchical Joint Embedding Predictive Architecture). H-JEPA learns hierarchical abstract representations of the world that are simultaneously maximally informative and maximally predictable. '
