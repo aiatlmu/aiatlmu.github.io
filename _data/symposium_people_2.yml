@@ -1,0 +1,90 @@
+- last: Haim
+  firsts: Mario
+  title: Prof. Dr.
+  chair: Chair of Communication Science, especially Computational Communication Research
+  chairLink: https://haim.it
+  interests: Political Communication, Computational Journalism, Algorithmic Curation in Media Environments, Computational Methods
+  image: files/haim-s.jpg
+  mail: mario.haim@uni-leipzig.de
+  credit: Vivi Schrüffer/blende11
+
+- last: Ingrisch
+  firsts: Michael 
+  title: Prof. Dr.
+  chair: Head of Clinical Data Science
+  chairLink: https://www.lmu-klinikum.de/radiologie/forschung/clinical-data-science/0e8a3ac188dad3f9
+  interests: Advanced Statistics, Machine Learning and Computer Vision Techniques in the Context Of Clinical Radiology, AI-Supported Diagnosis and Prognostication
+  image: files/Ingrisch Michael.JPG
+  mail: Michael.Ingrisch@med.uni-muenchen.de
+
+- last: Schwemmer
+  firsts: Carsten  
+  title: Prof. Dr.
+  chair: Professor of Sociology and Computational Social Sciences
+  chairLink: https://www.carstenschwemmer.com/
+  interests: Computational Social Science, Ethnic & Gender Studies, Digital Media & Communication, Political Sociology, Sociotechnical Systems, NLP, Images as Data
+  image: files/schwemmer.jpg
+
+- last: Unger
+  firsts: Kristian
+  title: Prof. Dr.
+  chair: Professor for AI-assisted Clinical Decision Support in Oncology (?)
+  chairLink: https://www.researchgate.net/profile/Kristian-Unger/
+  interests: cancer, Data - stratification - precision medicine
+  image: files/unger.jpg
+
+- last: Heng
+  firsts: Kevin
+  title: Prof. Dr.
+  chair: Chair for Theoretical Astrophysics of Extrasolar Planets
+  chairLink: https://about.me/kevinheng
+  interests: Theory, Simulation, Observations, Phenomenology, and Geosciences of Exoplanets and their Atmospheres, Philosophy of Science
+  image: files/heng.jpg
+
+- last: Lercari 
+  firsts: Nicola
+  title: Prof. Dr.
+  chair: Chair of Digital Cultural Heritage Studies
+  chairLink: https://www.dkes.fak12.uni-muenchen.de/people/professors/prof_lercari/index.html
+  interests: Digital Cultural Heritage, User-Centered Design, Cultural Visualization, 3D Reconstruction, GIS and Spatial Analysis, Historic Preservation, Digital History, Museum Studies, Remote Sensing, Augmented and Virtual Reality
+  image: files/pic_lercari.jpg
+
+- last: Rauhut
+  firsts: Holger
+  title: Prof. Dr.
+  chair: Chair for Mathematics of Information Processing
+  chairLink: https://www.math.lmu.de/personen/professoren/rauhut/index.html
+  interests: Mathematical Foundations of Machine Learning, Mathematics of Signal Processing, Deep Learning, Compressive Sensing, Random Matrices, Applied Harmonic Analysis, Continuous Optimization, Approximation Theory
+  image: files/rauhut.jpg
+
+- last: Rauhut
+  firsts: Holger
+  title: Prof. Dr.
+  chair: Chair for Mathematics of Information Processing
+  chairLink: https://www.math.lmu.de/personen/professoren/rauhut/index.html
+  interests: Mathematical Foundations of Machine Learning, Mathematics of Signal Processing, Deep Learning, Compressive Sensing, Random Matrices, Applied Harmonic Analysis, Continuous Optimization, Approximation Theory
+  image: files/rauhut.jpg
+
+- last: Wuttke
+  firsts: Alexander
+  title: Prof. Dr.
+  chair: Professor of Digitalization and Political Behavior 
+  chairLink: https://www.en.gsi.uni-muenchen.de/chairs/chair-wuttke/index.html
+  interests: Causal Inference, Computational Social Science, Open Science, Political Psychology, Democracy Research
+  image: files/wuttke.jpg
+
+- last: Riordan
+  firsts: Ryan
+  title: Prof. Dr.
+  chair: Head of Institute for Financial Innovation & Technology 
+  chairLink: https://www.som.lmu.de/en/faculty/people-overview/contact-page/riordan.html
+  interests: Technology in Financial Markets, High Frequency Trading, Intersection of Climate Risks and Asset Pricing
+  image: files/riordan.jpg
+
+- last: Młynarski
+  firsts: Wiktor
+  title: Prof. Dr.
+  chair: Professor of Computational Neuroscience 
+  chairLink: https://www.en.gsi.uni-muenchen.de/chairs/chair-wuttke/index.html
+  interests: Neural System Functions, Normative Theories, Experimental Collaboration, Sensory Analysis, Environmental Inference, Adaptation Mechanisms, Information Theory
+  image: files/mlynarski_headshot-new.jpeg
