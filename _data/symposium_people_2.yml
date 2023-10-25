@@ -28,9 +28,9 @@
 - last: Unger
   firsts: Kristian
   title: Prof. Dr.
-  chair: Professor for AI-assisted Clinical Decision Support in Oncology (?)
+  chair: Professor for AI-assisted Clinical Decision Support in Oncology
   chairLink: https://www.researchgate.net/profile/Kristian-Unger/
-  interests: cancer, Data - stratification - precision medicine
+  interests: Clinical Decision Support, Explainable AI, Oncology, Genetic Data
   image: files/unger.jpg
 
 - last: Heng
