@@ -548,7 +548,7 @@ AI and Sustainability'
   date_end: 2023-11-30
   title: 3rd AutoML Fall School 2023
   link: https://www.automlschool.org/
-  description: 'The 3rd edition of AutoML Fall School is scheduled for Nov 27-30 in Munich, marking a collaborative effort between the universities of Munich, Freiburg, and Hannover, organized locally by Prof. Dr. Eyke Hüllermeier, Dr. Viktor Bengs, Dr. Marcel Wever, Yusuf Sale, and Helena Theodorou, and sponsored by the MCML and BMW. It serves as a valuable platform for advanced Master’s students, early Ph.D. students, and ML practitioners to deepen their understanding of AutoML.'
+  description: 'The 3rd edition of AutoML Fall School is scheduled for Nov 27-30 in Munich, marking a collaborative effort between the universities of Munich, Freiburg, and Hannover, organized locally by Prof. Dr. Bernd Bischl, Prof. Dr. Matthias Feurer, Prof. Dr. Marius Lindauer, Prof. Dr. Frank Hutter, Dr. Janek Thomas and Dr. Marcel Wever, and sponsored by the MCML. It serves as a valuable platform for advanced Master’s students, early Ph.D. students, and ML practitioners to deepen their understanding of AutoML. '
   cal: true
   start: 100000
   end: 180000
