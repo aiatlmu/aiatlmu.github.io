@@ -541,3 +541,36 @@ AI and Sustainability'
   cal: true
   start: 141500
   end: 153000
+
+- id: 45
+  type: Fall School
+  date: 2023-11-27
+  date_end: 2023-11-30
+  title: 3rd AutoML Fall School 2023
+  link: https://www.automlschool.org/
+  description: 'The 3rd edition of AutoML Fall School is scheduled for Nov 27-30 in Munich, marking a collaborative effort between the universities of Munich, Freiburg, and Hannover, organized locally by Prof. Dr. Eyke Hüllermeier, Dr. Viktor Bengs, Dr. Marcel Wever, Yusuf Sale, and Helena Theodorou, and sponsored by the MCML and BMW. It serves as a valuable platform for advanced Master’s students, early Ph.D. students, and ML practitioners to deepen their understanding of AutoML.'
+  cal: true
+  start: 100000
+  end: 180000
+
+- id: 46
+  type: Keynote and Hackathon
+  date: 2023-11-17
+  date_end: 2023-11-18
+  title: AI meets Entrepreneurs&#58; Impact Bootcamp towards Food Security and Nutrition
+  link: https://www.hcilab.org/ai-meets-entrepreneurs/towards-food-security/
+  description: 'On November 17th and 18th, a collaborative event is set to take place at LMU, organized in partnership with the Munich Center for Machine Learning, impACTup!, Netlight Consulting GmbH, and the ZD.B / LMU Media Informatics Group. The event seeks to explore the role of AI in food security, drawing insights from notable AI researchers, entrepreneurs, and representatives from the World Food Programme. Participants will have the opportunity to discuss current challenges and to present AI-driven approaches to address food security. It promises a thoughtful exploration of the interplay between technology and global food concerns.'
+  cal: true
+  start: 100000
+  end: 180000
+
+- id: 47
+  type: Symposium
+  date: 2023-11-17
+  date_end: 2023-11-18
+  title: Symposium on AI Research at LMU
+  link: https://www.ai-news.lmu.de/symposium2023/
+  description: "On 29th November 2023 from 6&#58;15 pm to 8&#58;00 pm, this year's Symposium on AI Research taking place in LMU's Große Aula will showcase the next generation of AI research at LMU. The evening will start with introductions by Vice-President Prof. Dr. Oliver Jahraus, Michael Greiner of the Bavarian State Ministry of Science and Art, Dr. Michael Klimke from baiosphere, and remarks by Prof. Dr. Gitta Kutyniok. Ten newly appointed AI Professors will then showcase their groundbreaking research, delving into areas from medicine and finance to cultural heritage. The event concludes with a reception at the Lichthof."
+  cal: true
+  start: 183000
+  end: 200000
