@@ -395,7 +395,70 @@
   image: files/alex.jpg
   interests: Machine Translation, Natural Language Processing, Information Retrieval, Transfer Learning, Representation Learning, Domain Adaptation, Digital Inclusion
 
-  
+- last: Schwemmer
+  firsts: Carsten  
+  title: Prof. Dr.
+  chair: Professor of Sociology and Computational Social Sciences
+  chairLink: https://www.carstenschwemmer.com/
+  interests: Computational Social Science, Ethnic & Gender Studies, Digital Media & Communication, Political Sociology, Sociotechnical Systems, NLP, Images as Data
+  image: files/schwemmer.jpg
+
+- last: Unger
+  firsts: Kristian
+  title: Prof. Dr.
+  chair: Professor for AI-assisted Clinical Decision Support in Oncology
+  chairLink: https://www.lmu-klinikum.de/strahlentherapie-und-radioonkologie/das-team/ki-therapiesteuerung/351a62edb06ec660
+  interests: Clinical Decision Support, Explainable AI, Oncology, Genetic Data
+  image: files/kristianunger.jpg
+
+- last: Heng
+  firsts: Kevin
+  title: Prof. Dr.
+  chair: Chair for Theoretical Astrophysics of Extrasolar Planets
+  chairLink: https://about.me/kevinheng
+  interests: Theory, Simulation, Observations, Phenomenology, and Geosciences of Exoplanets and their Atmospheres, Philosophy of Science
+  image: files/heng.jpg
+
+- last: Rauhut
+  firsts: Holger
+  title: Prof. Dr.
+  chair: Chair for Mathematics of Information Processing
+  chairLink: https://www.math.lmu.de/personen/professoren/rauhut/index.html
+  interests: Mathematical Foundations of Machine Learning, Mathematics of Signal Processing, Deep Learning, Compressive Sensing, Random Matrices, Applied Harmonic Analysis, Continuous Optimization, Approximation Theory
+  image: files/rauhut.jpg
+
+- last: Wuttke
+  firsts: Alexander
+  title: Prof. Dr.
+  chair: Professor of Digitalization and Political Behavior 
+  chairLink: https://www.en.gsi.uni-muenchen.de/chairs/chair-wuttke/index.html
+  interests: Causal Inference, Computational Social Science, Open Science, Political Psychology, Democracy Research
+  image: files/wuttke.jpg
+
+- last: Riordan
+  firsts: Ryan
+  title: Prof. Dr.
+  chair: Head of Institute for Financial Innovation & Technology 
+  chairLink: https://www.som.lmu.de/en/faculty/people-overview/contact-page/riordan.html
+  interests: Technology in Financial Markets, High Frequency Trading, Intersection of Climate Risks and Asset Pricing
+  image: files/riordan.jpg
+
+- last: Młynarski
+  firsts: Wiktor
+  title: Prof. Dr.
+  chair: Professor of Computational Neuroscience 
+  chairLink: https://compneurobio.org/
+  interests: Neural System Functions, Normative Theories, Experimental Collaboration, Sensory Analysis, Environmental Inference, Adaptation Mechanisms, Information Theory
+  image: files/mlynarski_headshot-new.jpeg
+
+- last: Wendt
+  firsts: Ruth
+  title: Prof. Dr.
+  chair: Professor of Communication science with a focus on Digital Literacy in Algorithmic Spaces 
+  chairLink: https://www.ifkw.uni-muenchen.de/organisation/personen/professoren/ruth_wendt/index.html
+  interests: Media Literacy, Media Use & Media Impact; Media Socialization & Media Education
+  image: files/ruth_wendt.jpg
+
 #- last: 
 #  firsts: 
 #  title: Prof. Dr.
@@ -404,4 +467,3 @@
 #  interests: 
 #  image: files/
 #  mail: 
-  
