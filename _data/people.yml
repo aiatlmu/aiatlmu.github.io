@@ -1,12 +1,3 @@
-- last: Kutyniok
-  firsts: Gitta
-  title: Prof. Dr.
-  chair: Bavarian AI Chair for Mathematical Foundations of Artificial Intelligence
-  chairLink: https://www.ai.math.lmu.de/kutyniok
-  interests: Applied Harmonic Analysis, Compressed Sensing, Explainability of Deep Neural Networks, AI-Based Approaches to Imaging Science, High-Dimensional Data Science, Mathematical Foundations of Deep Learning, and Applications of AI to Life Sciences, Robotics, and Telecommunication
-  image: files/gitta_2.jpg
-  mail: kutyniok@math.lmu.de
-
 - last: Bischl
   firsts: Bernd
   title: Prof. Dr.
@@ -43,15 +34,6 @@
   image: files/DSC_6513_s.jpg
   mail: Guillaume.Landry@med.uni-muenchen.de
 
-- last: Kreuter
-  firsts: Frauke
-  title: Prof. Dr.
-  chair: Chair of Statistics and Data Science in Social Sciences and the Humanities (SODA)
-  chairLink: https://www.soda.statistik.uni-muenchen.de/index.html
-  interests: Fairness in Automated Decision Making, Data Quality, Training Data Reliability, Inference, Privacy, AI Research Infrastructure 
-  image: files/FK_MBS_c.jpg
-  mail: soda@stat.uni-muenchen.de
-
 - last: Thurman
   firsts: Neil
   title: Prof. Dr.
@@ -61,15 +43,6 @@
   image: files/NeilThurman_s.jpg
   mail: neil.thurman@ifkw.lmu.de
 
-- last: Igel
-  firsts: Heiner
-  title: Prof. Dr.
-  chair: Professor of Seismology/Geophysics 
-  chairLink: https://www.geophysik.uni-muenchen.de/Members/igel
-  interests: Computational Seismology, Seismic Inverse Problems, Seismic Data Processing, Seismic Instrumentation, Elastic Wave Propagation, Earthquake Physics
-  image: files/heinerigel.jpg
-  mail: igel@geophysik.uni-muenchen.de
-
 - last: Leitgeb
   firsts: Hannes
   title: Prof. Dr.
@@ -78,15 +51,6 @@
   interests: Logic, Philosophy of Language, Epistemology, General Philosophy of Science, Philosophy of Cognitive Science, Philosophy of Mathematics
   image: files/Leitgeb.jpg
   mail: Hannes.Leitgeb@lmu.de
-
-- last: Feuerriegel
-  firsts: Stefan
-  title: Prof. Dr.
-  chair: Institute of Artificial Intelligence (AI) in Management
-  chairLink: https://www.ai.bwl.uni-muenchen.de/personen/professoren/feuerriegel/index.html
-  interests: AI for Businesses, Public Organizations, and Health Management
-  image: files/2021_12_01lmu0566_Feuerriegel_S.jpg
-  mail: feuerriegel@lmu.de
 
 - last: Falck
   firsts: Oliver
@@ -115,33 +79,6 @@
   image: files/SHartmann low res.jpg
   mail: S.Hartmann@lmu.de
 
-- last: Ommer 
-  firsts: Björn
-  title: Prof. Dr.
-  chair: Bavarian AI Chair and Head Of The Machine Vision & Learning Group
-  chairLink: https://ommer-lab.com/people/ommer/
-  interests: Semantic Image and Video Understanding based on (Deep) Machine Learning, Generative Approaches For Visual Synthesis, Invertible Deep Models For Explainable AI, Deep Metric and Representation Learning, Self-Supervised Learning Paradigms and their Interdisciplinary Applications in the Digital Humanities and Neuroscience
-  image: files/bjorn.jpeg
-  mail: b.ommer@lmu.de
-
-- last: Kuhr 
-  firsts: Thomas
-  title: Prof. Dr.
-  chair: Project Leader Experimental Flavor Physics
-  chairLink: https://www.flavor.physik.uni-muenchen.de/members/professoren/kuhr/index.html
-  interests: AI Applications in Particle Physics, Generative Models for Fast Simulations, Graph Neural Networks for Event Classification
-  image: files/picture_1_1_format_m.jpg
-  mail: Thomas.Kuhr@lmu.de
-
-- last: Ingrisch
-  firsts: Michael 
-  title: Prof. Dr.
-  chair: Head of Clinical Data Science
-  chairLink: https://www.lmu-klinikum.de/radiologie/forschung/clinical-data-science/0e8a3ac188dad3f9
-  interests: Advanced Statistics, Machine Learning and Computer Vision Techniques in the Context Of Clinical Radiology, AI-Supported Diagnosis and Prognostication
-  image: files/Ingrisch Michael.JPG
-  mail: Michael.Ingrisch@med.uni-muenchen.de
-
 - last: Kranz
   firsts: Johann
   title: Prof. Dr.
@@ -159,15 +96,6 @@
   interests:  Decision Theory, Social Choice Theory, Philosophy of Mind and Action, Metaphysics, Philosophical Foundations of the Social Sciences
   image: files/ListPhoto.jpg
   mail: c.list@lmu.de
-
-- last: Zöller
-  firsts: Mark
-  title: Prof. Dr.
-  chair: Chair of German, European and International Criminal Law and Criminal Procedural Law, Commercial Criminal Law and Digitalization Law
-  chairLink: https://www.jura.uni-muenchen.de/personen/z/zoeller_mark/index.html
-  interests: German, European and International Criminal Law and Criminal Procedure, Commercial Criminal Law, Police Law, Law of Intelligence Services, Data protection law of Security Services, Terrorism and Political Extremism, Legal Aspects of Digitalization
-  image: files/ProfessorZoellerPress.jpg
-  mail: Mark.Zoeller@jura.uni-muenchen.de
 
 - last: Peichl
   firsts: Andreas 
@@ -260,24 +188,6 @@
   mail: jkirby@phonetik.uni-muenchen.de
   after: ", Ph.D."
   
-- last:  Winter
-  firsts: Joachim
-  title: Prof. Dr.
-  chair: Chair of Empirical Economic Research
-  chairLink: https://www.en.empwi.econ.uni-muenchen.de/team/professor/winter/index.html
-  interests: Individual Decision-Making, in particular Saving, Portfolio and Insurance Choices; The Design and Analysis of Household Surveys; The Effects of Shocks and Interventions in Childhood
-  image: files/winter_joachim.jpg
-  mail: Winter@lmu.de
-  
-- last: Seidl
-  firsts: Thomas
-  title: Prof. Dr.
-  chair: Chair of Database Systems and Data Mining
-  chairLink: https://www.dbs.ifi.lmu.de/cms/personen/professoren/seidl/index.html
-  interests: Clustering, Process Mining, Remote Sensing & Imaging, Active Learning, Graph Machine Learning, Machine Learning with limited labeled data, (Deep) Reinforcement Learning, Machine Learning with Knowledge Basis, Semi-/Supervised Natural-Language-Processing
-  image: files/seid.jpg
-  mail: seidl@dbs.ifi.lmu.de
-  
 - last: Kauermann
   firsts: Göran
   title: Prof. Dr.
@@ -304,15 +214,7 @@
   interests: Strongly Correlated Systems, Ultracold Atomic Gases, Supersolids, Topological Phases, Computational Physics, Quantum Computing, Artificial Intelligence
   image: files/pollet.jpg
   mail: lode.pollet@physik.uni-muenchen.de
-  
-- last: Hüllermeier
-  firsts: Eyke
-  title: Prof. Dr.
-  chair: Bavarian AI Chair for Artificial Intelligence and Machine Learning
-  chairLink:  https://www.kiml.ifi.lmu.de/people/professors/huellermeier/index.html
-  interests: His research interests are centered around methods and theoretical foundations of artificial intelligence, with a specific focus on machine learning and reasoning under uncertainty.
-  image: files/huellermeier2.jpg
-  mail: eyke@ifi.lmu.de 
+   
   
 - last: Butz
   firsts: Andreas
@@ -341,16 +243,6 @@
   interests: Quantum Computing, Quantum Software, Quantum Machine Learning, (Deep) Reinforcement Learning, Autonomous Systems, Federal and Distributed Learning, Anomaly Detection and Uncertainty, Ubiquitous Computing
   image: files/Linnhoff-Popien-s.jpg
   mail: linnhoff@ifi.lmu.de
-  
-- last: Haim
-  firsts: Mario
-  title: Prof. Dr.
-  chair: Chair of Communication Science, especially Computational Communication Research
-  chairLink: https://haim.it
-  interests: Political Communication, Computational Journalism, Algorithmic Curation in Media Environments, Computational Methods
-  image: files/haim-s.jpg
-  mail: mario.haim@uni-leipzig.de
-  credit: Vivi Schrüffer/blende11
   
 - last: Englmaier
   firsts: Florian
@@ -387,14 +279,6 @@
   image: files/thurner4.jpg
   interests: Electoral Research, Discrete Choice Analysis & Network Analysis, Energy Policy, Foreign Policy, Defence and Security Policy, Transgovernmental Administrative Cooperation
 
-- last: Fraser 
-  firsts: Alexander M.
-  chairLink: https://www.cis.uni-muenchen.de/%7Efraser/
-  title: Prof. Dr.
-  chair: Professor for Information and Language Processing
-  image: files/alex.jpg
-  interests: Machine Translation, Natural Language Processing, Information Retrieval, Transfer Learning, Representation Learning, Domain Adaptation, Digital Inclusion
-
 - last: Schwemmer
   firsts: Carsten  
   title: Prof. Dr.
@@ -419,22 +303,6 @@
   interests: Theory, Simulation, Observations, Phenomenology, and Geosciences of Exoplanets and their Atmospheres, Philosophy of Science
   image: files/heng.jpg
 
-- last: Rauhut
-  firsts: Holger
-  title: Prof. Dr.
-  chair: Chair for Mathematics of Information Processing
-  chairLink: https://www.math.lmu.de/personen/professoren/rauhut/index.html
-  interests: Mathematical Foundations of Machine Learning, Mathematics of Signal Processing, Deep Learning, Compressive Sensing, Random Matrices, Applied Harmonic Analysis, Continuous Optimization, Approximation Theory
-  image: files/rauhut.jpg
-
-- last: Wuttke
-  firsts: Alexander
-  title: Prof. Dr.
-  chair: Professor of Digitalization and Political Behavior 
-  chairLink: https://www.en.gsi.uni-muenchen.de/chairs/chair-wuttke/index.html
-  interests: Causal Inference, Computational Social Science, Open Science, Political Psychology, Democracy Research
-  image: files/wuttke.jpg
-
 - last: Riordan
   firsts: Ryan
   title: Prof. Dr.
@@ -443,14 +311,6 @@
   interests: Technology in Financial Markets, High Frequency Trading, Intersection of Climate Risks and Asset Pricing
   image: files/riordan.jpg
 
-- last: Młynarski
-  firsts: Wiktor
-  title: Prof. Dr.
-  chair: Professor of Computational Neuroscience 
-  chairLink: https://compneurobio.org/
-  interests: Neural System Functions, Normative Theories, Experimental Collaboration, Sensory Analysis, Environmental Inference, Adaptation Mechanisms, Information Theory
-  image: files/mlynarski_headshot-new.jpeg
-
 - last: Wendt
   firsts: Ruth
   title: Prof. Dr.
@@ -458,6 +318,14 @@
   chairLink: https://www.ifkw.uni-muenchen.de/organisation/personen/professoren/ruth_wendt/index.html
   interests: Media Literacy, Media Use & Media Impact; Media Socialization & Media Education
   image: files/ruth_wendt.jpg
+
+- last: Rauhut
+  firsts: Holger
+  title: Prof. Dr.
+  chair: Chair for Mathematics of Information Processing
+  chairLink: https://www.math.lmu.de/personen/professoren/rauhut/index.html
+  interests: Mathematical Foundations of Machine Learning, Mathematics of Signal Processing, Deep Learning, Compressive Sensing, Random Matrices, Applied Harmonic Analysis, Continuous Optimization, Approximation Theory
+  image: files/rauhut.jpg
 
 #- last: 
 #  firsts: 

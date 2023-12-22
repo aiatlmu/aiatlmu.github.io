@@ -1,0 +1,32 @@
+- last: Kutyniok
+  firsts: Gitta
+  title: Prof. Dr.
+  chair: Bavarian AI Chair for Mathematical Foundations of Artificial Intelligence
+  chairLink: https://www.ai.math.lmu.de/kutyniok
+  interests: Applied Harmonic Analysis, Compressed Sensing, Explainability of Deep Neural Networks, AI-Based Approaches to Imaging Science, High-Dimensional Data Science, Mathematical Foundations of Deep Learning, and Applications of AI to Life Sciences, Robotics, and Telecommunication
+  image: files/gitta_2.jpg
+  mail: kutyniok@math.lmu.de
+  fak: Faculty of Mathematics, Informatics and Statistics
+  fak_nr: 16
+
+- last: Hüllermeier
+  firsts: Eyke
+  title: Prof. Dr.
+  chair: Bavarian AI Chair for Artificial Intelligence and Machine Learning
+  chairLink:  https://www.kiml.ifi.lmu.de/people/professors/huellermeier/index.html
+  interests: His research interests are centered around methods and theoretical foundations of artificial intelligence, with a specific focus on machine learning and reasoning under uncertainty.
+  image: files/huellermeier2.jpg
+  mail: eyke@ifi.lmu.de 
+  fak: Faculty of Mathematics, Informatics and Statistics
+  fak_nr: 16
+  
+- last: Kreuter
+  firsts: Frauke
+  title: Prof. Dr.
+  chair: Chair of Statistics and Data Science in Social Sciences and the Humanities (SODA)
+  chairLink: https://www.soda.statistik.uni-muenchen.de/index.html
+  interests: Fairness in Automated Decision Making, Data Quality, Training Data Reliability, Inference, Privacy, AI Research Infrastructure 
+  image: files/FK_MBS_c.jpg
+  mail: soda@stat.uni-muenchen.de
+  fak: Faculty of Mathematics, Informatics and Statistics
+  fak_nr: 16

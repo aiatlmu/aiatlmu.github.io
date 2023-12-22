@@ -1,0 +1,105 @@
+---
+layout: default
+title: AI-HUB@LMU Steering Committee 
+small_im: true
+---
+{% assign sorted = site.data.people_reps  | sort: 'last' %}
+{% assign sorted2 = site.data.people_directors  | sort: 'last' %}
+{% assign concated0 = sorted2  | concat: sorted %}
+{% assign concated = concated0  | sort: 'fak_nr' %}
+<div class="c-header-news-detail--news" data-css="c-header-news-detail" data-js-module="header-news-detail">
+	<div class="grid__container">
+		<div class="grid__row">
+			<div class="header-news-detail__container">
+				<article class="header-news-detail__wrapper">
+					<div class="header-news-detail__iconarea">
+						<div class="header-news-detail__icon" title="Icon News"><span class="header-news-detail__icon-text">News</span></div>
+					</div>
+					<div class="header-news-detail__content">
+								<h1 class="header-news-detail__headline">AI-HUB@LMU Steering Committee</h1>
+								<p>The researchers championing the initiative across LMU's 18 faculties</p>
+					</div>
+				</article>
+			</div>
+		</div>
+	</div>
+</div>
+<div class="c-anchor-nav--default " data-css="c-anchor-nav" data-js-module="anchor-nav">
+			<div class="grid__container">
+
+						<div class="grid__row">
+							<h3 class="anchor-nav__headline">Overview</h3>
+									<ul class="anchor-nav__list">
+										{% assign previous_profession = nil %}
+						{% for person in concated %}
+						{% if person.fak != previous_profession %}
+						
+			{% if forloop.index < 6 %}
+									<li class="anchor-nav__list-item">
+										<a class="anchor-nav__link" href="#st_img_text__master_{{ person.fak_nr }}" data-js-item="anchor-link" title="{{ person.title }} {{ person.firsts }} {{ person.last }}{{ person.after }}">
+											{{ person.fak_nr }} {{ person.fak }}
+										</a>
+									</li>
+			{% endif %}
+			{% assign previous_profession = person.fak %}			</li>
+			{% endif %}	
+			{% endfor %}
+									</ul>
+									<div id="unique-id-hidden-list" class="anchor-nav__hidden-list-wrapper is-closed" data-js-item="hidden-list" data-js-height="108" aria-hidden="false" style="height: 108px; overflow: hidden;">
+											<ul class="anchor-nav__list">
+						{% for person in concated %}
+						
+						{% if person.fak != previous_profession %}
+			{% if forloop.index > 5 %}
+									<li class="anchor-nav__list-item">
+										<a class="anchor-nav__link" href="#st_img_text__master_{{ person.fak_nr }}" data-js-item="anchor-link" title="{{ person.title }} {{ person.firsts }} {{ person.last }}{{ person.after }}">
+											{{ person.fak_nr }} {{ person.fak }}
+										</a>
+									</li>
+			{% endif %}
+			{% assign previous_profession = person.fak %}
+			{% endif %}
+		{% endfor %}
+									</ul>
+								</div>
+							</div>
+
+
+
+						<div class="anchor-nav__cta-wrapper">
+								<button class="c-cta--anchor-nav" data-css="c-cta" data-js-module="cta" data-js-options="{&quot;globalEvent&quot;:&quot;cta:toggleMoreAnchorNavLinks&quot;,&quot;closedLabel&quot;:&quot;Mehr anzeigen&quot;,&quot;openedLabel&quot;:&quot;Weniger anzeigen&quot;}">
+									<span class="cta__content" data-js-item="cta-content">
+										Show more
+									</span>
+								</button>
+						</div>
+				</div>
+			</div>
+		
+		<article class="c-rte--default" data-css="c-rte">
+
+			{% assign previous_profession = nil %}
+				{% for person in concated	 %}
+				<a id="st_img_text__master_{{ person.fak_nr }}" name="st_img_text__master_{{ person.fak_nr }}"></a>
+				{% if person.fak != previous_profession %}
+				
+		<h1>{{ person.fak_nr }} {{ person.fak }}</h1>
+		{% assign previous_profession = person.fak %}
+	  {% endif %}
+  <div class="container">
+   <div class="column-1 box"style="order: {% cycle 2,1 %}">
+					<a href="{{ person.chairLink }}">
+						<img src="{{ person.image }}" alt="Image of {{ person.title }} {{ person.firsts }} {{ person.last }}{{ person.after }}{% if person.credit %}, Credit: {{person.credit}}{% endif %}" >
+					</a>
+   </div>
+   <div class="column-2 box" style="order: {% cycle 1,2 %}">
+   <h2>{{ person.title }} {{ person.firsts }} {{ person.last }}{{ person.after }}</h2>
+	
+				<p style="margin-bottom: 10px;"><a class="is-external	" href="{{ person.chairLink }}">{{ person.chair }}</a></p>
+				
+				<p><b>Research interests:</b> {{ person.interests }}</p>
+				<!-- <p><b>{{ person.fak }}</b></p> -->
+   </div>
+</div>
+{% endfor %}
+</article>

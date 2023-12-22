@@ -1,0 +1,338 @@
+- last: Schärtl-Trendel
+  firsts: Thomas
+  title: Prof. Dr.
+  chair: Chair for Fundamental Theology
+  chairLink: https://www.kaththeol.lmu.de/de/ueber-uns/lehrstuehle-und-professuren/lehrstuhl-fuer-fundamentaltheologie/index.html
+  interests: Theory of Religious Belief, Fundamental Theology, Interreligious God Concepts, Atheism Studies, Theological Science Theory, Language of Faith, Trinitarian Theology, Incarnation Dogma Consistency, Metaphysical Resurrection Modeling
+  image: files/trendel.jpeg
+  mail: thomas.schaertl@lmu.de
+  fak: Faculty of Catholic Theology
+  fak_nr: 01
+
+- last: Anselm
+  firsts: Reiner
+  title: Prof. Dr.
+  chair: Chair for Systematic Theology
+  chairLink: https://www.en.evtheol.uni-muenchen.de/institutions/chairs/st/index.html
+  interests: Protestant Ethics Past and Present, Praxeologies of Protestant Christendom, Transformation of Protestant Ethical Concepts in the 20th Century, Applied Ethics in Politics, Democracy and Peace, Biomedical Ethics
+  image: files/anselm2.jpg
+  mail: reiner.anselm@evtheol.uni-muenchen.de
+  fak: Faculty of Protestant Theology
+  fak_nr: 2
+
+- last: Zöller
+  firsts: Mark A.
+  title: Prof. Dr. jur.
+  chair: Chair of German, European and International Criminal Law and Criminal Procedure, Business Criminal Law and Legal Tech
+  chairLink: https://www.jura.lmu.de/de/fakultaet/personen/kontaktseite/mark-a-zoeller-e58d0885.html
+  interests: Criminal Law and Procedure, Business Criminal Law and Legal Tech
+  image: files/professor-zoeller-press_1_1_format_s.jpg
+  mail: sekretariat.zoeller@jura.uni-muenchen.de
+  fak: Faculty of Law
+  fak_nr: 3
+
+- last: Leistner, LL.M. (Cambridge)
+  firsts: Matthias
+  title: Prof. Dr. jur.
+  chair: Chair of Private Law and Intellectual Property Law, with Information and IT-Law (GRUR-Chair)
+  chairLink: https://www.jura.lmu.de/de/fakultaet/personen/kontaktseite/matthias-leistner-c98d3cda.html
+  interests: Civil Law, Intellectual Property, Internet Law, Copyright and Big Data, European Patent System, Legal Challenges in Big Data and Industry 4.0, Pharmaceutical Patent Issues, Unfair Competition Law
+  image: files/foto_leistner_3_2_format_l.jpg
+  mail: sekretariat.leistner@jura.uni-muenchen.de
+  fak: Faculty of Law
+  fak_nr: 3
+
+- last: Feuerriegel
+  firsts: Stefan
+  title: Prof. Dr.
+  chair: Institute of Artificial Intelligence (AI) in Management
+  chairLink: https://www.ai.bwl.uni-muenchen.de/personen/professoren/feuerriegel/index.html
+  interests: AI for Businesses, Public Organizations, and Health Management
+  image: files/2021_12_01lmu0566_Feuerriegel_S.jpg
+  mail: feuerriegel@lmu.de
+  fak: Faculty of Business Administration – Munich School of Management
+  fak_nr: 4
+  
+- last:  Winter
+  firsts: Joachim
+  title: Prof. Dr.
+  chair: Chair of Empirical Economic Research
+  chairLink: https://www.en.empwi.econ.uni-muenchen.de/team/professor/winter/index.html
+  interests: Individual Decision-Making, in particular Saving, Portfolio and Insurance Choices; The Design and Analysis of Household Surveys; The Effects of Shocks and Interventions in Childhood
+  image: files/winter_joachim.jpg
+  mail: Winter@lmu.de
+  fak: Faculty of Economics
+  fak_nr: 5
+
+- last: Falck
+  firsts: Oliver 
+  title: Prof. Dr.
+  chair: Director of the ifo Center for Industrial Organization and New Technologies
+  chairLink: https://www.ifo.de/en/falck-o
+  interests: Innovation, Growth and Economic Development, Entrepreneurship, Human Capital, Regional Aspects
+  image: files/cvfoto-falck.jpg
+  mail: falck@ifo.de
+  fak: Faculty of Economics
+  fak_nr: 5
+
+- last: Boulesteix
+  firsts:  Anne-Laure
+  title: Univ. Prof. Dr. rer. nat. HDR
+  chair: Professor of Biometry with a focus on Molecular Medicine
+  chairLink: https://www.en.ibe.med.uni-muenchen.de/mitarbeiter/professoren/boulesteix/index.html
+  interests: Medical/Computational Statistics, Omics Data Analysis, Regularized Regression, Machine Learning, Metascience Research Validation, Benchmarking, Publication Bias, Statistical Consulting in Medical Research.
+  image: files/boulesteix.jpg
+  mail: boulesteix@ibe.med.uni-muenchen.de
+  fak: Faculty of Medicine
+  fak_nr: 7
+
+- last: Ingrisch
+  firsts: Michael 
+  title: Prof. Dr.
+  chair: Head of Clinical Data Science
+  chairLink: https://www.lmu-klinikum.de/radiologie/forschung/clinical-data-science/0e8a3ac188dad3f9
+  interests: Advanced Statistics, Machine Learning and Computer Vision Techniques in the Context Of Clinical Radiology, AI-Supported Diagnosis and Prognostication
+  image: files/Ingrisch Michael.JPG
+  mail: Michael.Ingrisch@med.uni-muenchen.de
+  fak: Faculty of Medicine
+  fak_nr: 7
+
+- last: Koutsouleris
+  firsts:  Nikolaos 
+  title: Prof. Dr.
+  chair: Chair of Precision Psychiatry, LMU Clinics for Psychiatry and Psychotherapy
+  chairLink: https://www.en.nicum.uni-muenchen.de/members/executive-board/koutsouleris/index.html
+  interests: Early Recognition of Psychotic and Affective Disorders, Neuroimaging, Machine Learning/AI in Translational Research, Biomarkers, Stratified Clinical Trials.
+  image: files/nikolaos_koutsouleris.jpg
+  mail: Nikolaos.Koutsouleris@med.uni-muenchen.de
+  fak: Faculty of Medicine
+  fak_nr: 7
+
+- last: Frantz
+  firsts: Laurent
+  title: Prof. Dr.
+  chair: Professor of Animal Paleogenomics
+  chairLink: https://www.lsm.bio.lmu.de/faculty/current-members/prof-dr-laurent-frantz/index.html
+  interests: Evolutionary Genomics, Domestication, Speciation, Ancient DNA, Zooarchaeology, Bioinformatics
+  image: files/frantz_laurent.jpeg
+  mail: laurent.frantz@lmu.de
+  fak: Faculty of Veterinary Medicine
+  fak_nr: 8
+
+- last: Ommer 
+  firsts: Björn
+  title: Prof. Dr.
+  chair: Bavarian AI Chair and Head Of The Machine Vision & Learning Group
+  chairLink: https://ommer-lab.com/people/ommer/
+  interests: Semantic Image and Video Understanding based on (Deep) Machine Learning, Generative Approaches For Visual Synthesis, Invertible Deep Models For Explainable AI, Deep Metric and Representation Learning, Self-Supervised Learning Paradigms and their Interdisciplinary Applications in the Digital Humanities and Neuroscience
+  image: files/bjorn.jpeg
+  mail: b.ommer@lmu.de
+  fak: Faculty of History and the Arts
+  fak_nr: 9
+
+- last: Nyholm
+  firsts: Sven 
+  title: Prof. Dr.
+  chair: Professor for Ethics of Artificial Intelligence
+  chairLink: https://www.philosophie.uni-muenchen.de/lehreinheiten/prof_ethik-der-ki/personen/nyholm/index.html
+  interests: AI Ethics, Autonomous Vehicles, Decision Systems, Robotics, AI in Healthcare and Military, Interdisciplinary AI Research.
+  image: files/Sven-Nyholm.jpg
+  mail: sven.nyholm@lrz.uni-muenchen.de
+  fak: Faculty of Philosophy, Philosophy of Science and Religious Studies
+  fak_nr: 10
+
+- last: Deroy
+  firsts: Ophelia 
+  title: Prof. Dr.
+  chair: Chair and Head of Philosophy of Mind/CVBE 
+  chairLink: https://www.philosophie.uni-muenchen.de/lehreinheiten/phil_of_mind/personen/ophelia_deroy/index.html
+  interests: Philosophy of Mind, Neuroscience, Multisensory Rhetoric, Experimental Aesthetics, Technology and Engineering, Museum and Art Studio Collaboration.
+  image: files/prof.-dr.-ophelia-deroy_id19212-1_2_1_format_m.jpg
+  mail: ophelia.deroy@lrz.uni-muenchen.de
+  fak: Faculty of Philosophy, Philosophy of Science and Religious Studies
+  fak_nr: 10
+
+- last: Hornischer
+  firsts: Levin 
+  title: Prof. Dr.
+  chair: Assistant Professor at the Munich Center for Mathematical Philosophy
+  chairLink: https://www.mcmp.philosophie.uni-muenchen.de/people/faculty/hornischer_levin/index.html
+  interests: Foundations of AI, Dynamical Systems, Philosophy of Language, Philosophical Logic, Formal Theories in Mathematics and Logic.
+  image: files/Hornischer.jpg
+  mail: Levin.Hornischer@lrz.uni-muenchen.de
+  fak: Faculty of Philosophy, Philosophy of Science and Religious Studies
+  fak_nr: 10
+
+- last: Hauck-Thum
+  firsts:  Uta 
+  title: Prof. Dr.
+  chair: Professor of Primary School Pedagogy and Primary School Didactics
+  chairLink: https://www.edu.uni-muenchen.de/grundschulpaedagogik/personen/profess/hauck-thum/index.html
+  interests: Teaching and Learning in Digital Culture, Artificial Intelligence in Schools, Education for Sustainable Development, School Transformation.
+  image: files/hauck-thum.jpg
+  mail: uta.hauck-thum@lmu.de
+  fak: Faculty of Psychology and Educational Sciences
+  fak_nr: 11
+
+- last: Kaiser
+  firsts: Jakob 
+  title: Dr.
+  chair: Postdoctoral Researcher, Experimental Neuro-Cognitive Psychologie
+  chairLink: https://www.psy.uni-muenchen.de/expneurocog/people/jakob_kaiser/index.html
+  interests: Cognitive Science, Bodily Feedback in Decision Making, Sensorimotor Process Adjustments, Oscillatory Mechanisms for Sensorimotor Preparation
+  image: files/jakob_profil.jpg
+  mail: J.Kaiser@psy.lmu.de
+  fak: Faculty of Psychology and Educational Sciences
+  fak_nr: 11
+
+- last: Stefan
+  firsts: Angelika 
+  title: Dr.
+  chair: Postdoctoral Researcher, Chair of Computational Modeling in Psychology
+  chairLink: https://www.psy.uni-muenchen.de/comppsy/people/employees/angelika-stefan/index.html
+  interests: Empirical Research in Social Sciences, Bayesian Statistics, Research Design, Model Comparison, Analytic Flexibility
+  image: files/stefan.jpeg
+  mail: angelika.stefan@psy.lmu.de
+  fak: Faculty of Psychology and Educational Sciences
+  fak_nr: 11
+
+- last: Bauer
+  firsts: Franz Alto 
+  title: Prof. Dr.
+  chair: Professor of Byzantine Studies, Byzantine Art History and Modern Greek studies
+  chairLink: https://www.byzantinistik.uni-muenchen.de/personen/professoren/franz-alto-bauer/index.html
+  interests: Late Antique and Byzantine Art History, Archaeology, Ancient History, Urban Studies, Papal Policy in Early Medieval Rome, Monumental Inscriptions
+  image: files/fab_klein.jpg
+  mail: franz.alto.bauer@lmu.de
+  fak: Faculty for the Study of Culture
+  fak_nr: 12
+
+- last: Fraser 
+  firsts: Alexander M.
+  chairLink: https://www.cis.uni-muenchen.de/%7Efraser/
+  title: Prof. Dr.
+  chair: Professor for Information and Language Processing
+  image: files/alex.jpg
+  interests: Machine Translation, Natural Language Processing, Information Retrieval, Transfer Learning, Representation Learning, Domain Adaptation, Digital Inclusion
+  fak: Faculty of Languages and Literatures
+  fak_nr: 13
+
+- last: Wuttke
+  firsts: Alexander
+  title: Prof. Dr.
+  chair: Professor of Digitalization and Political Behavior 
+  chairLink: https://www.en.gsi.uni-muenchen.de/chairs/chair-wuttke/index.html
+  interests: Causal Inference, Computational Social Science, Open Science, Political Psychology, Democracy Research
+  image: files/wuttke.jpg
+  fak: Faculty of Social Sciences
+  fak_nr: 15
+  
+- last: Haim
+  firsts: Mario
+  title: Prof. Dr.
+  chair: Chair of Communication Science, especially Computational Communication Research
+  chairLink: https://haim.it
+  interests: Political Communication, Computational Journalism, Algorithmic Curation in Media Environments, Computational Methods
+  image: files/haim-s.jpg
+  mail: mario.haim@uni-leipzig.de
+  credit: Vivi Schrüffer/blende11
+  fak: Faculty of Social Sciences
+  fak_nr: 15
+
+- last: Seidl
+  firsts: Thomas
+  title: Prof. Dr.
+  chair: Chair of Database Systems and Data Mining
+  chairLink: https://www.dbs.ifi.lmu.de/cms/personen/professoren/seidl/index.html
+  interests: Clustering, Process Mining, Remote Sensing & Imaging, Active Learning, Graph Machine Learning, Machine Learning with limited labeled data, (Deep) Reinforcement Learning, Machine Learning with Knowledge Basis, Semi-/Supervised Natural-Language-Processing
+  image: files/seid.jpg
+  mail: seidl@dbs.ifi.lmu.de
+  fak: Faculty of Mathematics, Informatics and Statistics
+  fak_nr: 16
+
+- last: Kuhn
+  firsts: Jochen
+  title: Prof. Dr.
+  chair: Chair of Physics Education
+  chairLink: https://www.didaktik.physik.uni-muenchen.de/lehrstuhlleitung/index.html
+  interests: Natural Science Teacher Education, Multimedia-Based Science Learning, AI Learning Applications, Eye-Tracking for Educational Research
+  image: files/foto_kuhn.jpg
+  mail: jochen.kuhn@physik.uni-muenchen.de
+  fak: Faculty of Physics
+  fak_nr: 17
+
+- last: Kuhr 
+  firsts: Thomas
+  title: Prof. Dr.
+  chair: Project Leader Experimental Flavor Physics
+  chairLink: https://www.flavor.physik.uni-muenchen.de/members/professoren/kuhr/index.html
+  interests: AI Applications in Particle Physics, Generative Models for Fast Simulations, Graph Neural Networks for Event Classification
+  image: files/picture_1_1_format_m.jpg
+  mail: Thomas.Kuhr@lmu.de
+  fak: Faculty of Physics
+  fak_nr: 17
+
+- last: Trapp
+  firsts: Oliver
+  title: Prof. Dr.
+  chair: Professor of Organic Chemistry 
+  chairLink: https://www.cup.lmu.de/oc/trapp/
+  interests: Self-Amplifying Catalyst Design, Ligand Synthesis, Prebiotic Chemistry, High-Throughput Catalyst Screening, Reaction Kinetics Analysis, Multiplexing Techniques, Reaction Chromatography, Nanoparticle Catalysis, Enantioselective Chromatography and Electrophoresis
+  image: files/oliver-trapp-foto_1024x1024.jpg
+  mail: oliver.trapp@cup.uni-muenchen.de
+  fak: Faculty of Chemistry and Pharmacy
+  fak_nr: 18
+
+- last: Młynarski
+  firsts: Wiktor
+  title: Prof. Dr.
+  chair: Professor of Computational Neuroscience 
+  chairLink: https://compneurobio.org/
+  interests: Neural System Functions, Normative Theories, Experimental Collaboration, Sensory Analysis, Environmental Inference, Adaptation Mechanisms, Information Theory
+  image: files/mlynarski_headshot-new.jpeg
+  fak: Faculty of Biology
+  fak_nr: 19
+
+- last: Keller
+  firsts: Alexander 
+  title: Prof. Dr.
+  chair: Head of the Cellular and Organismic Networks Group
+  chairLink: https://www.biologie.uni-muenchen.de/personen/professoren/keller/index.html
+  interests: Field Ecology and Bioinformatics, Next-Generation Sequencing, Ecological and Evolutionary Studies, Phylogenetic Reconstructions, Environmental and Spatial Ecology, Genomic Interactions, Computational Workflows in Ecology, Plant-Microbe-Pollinator Interactions, Ecosystem Health, Biodiversity Conservation.
+  image: files/Keller.jpg
+  mail: keller@biologie.uni-muenchen.de
+  fak: Faculty of Biology
+  fak_nr: 19
+
+- last: Igel
+  firsts: Heiner
+  title: Prof. Dr.
+  chair: Professor of Seismology/Geophysics 
+  chairLink: https://www.geowissenschaften.uni-muenchen.de/personen/professoren1/igel/index.html
+  interests: Computational Seismology, Seismic Inverse Problems, Seismic Data Processing, Seismic Instrumentation, Elastic Wave Propagation, Earthquake Physics
+  image: files/heinerigel.jpg
+  mail: igel@geophysik.uni-muenchen.de
+  fak: Faculty of Geosciences
+  fak_nr: 20
+
+- last: Lehnert
+  firsts: Lukas
+  title: Prof. Dr.
+  chair: Professor for Physical Geography and Environmental Remote Sensing
+  chairLink: https://www.geographie.uni-muenchen.de/department/fiona/personen/index.php?personen_details=1&user_id=339
+  interests: Sustainable Development of Mongolian Steppe Ecosystem, Crop Yield Forecast in Benin and Morocco using EO Data, Fusion of Radar and Lidar Satellite Data for Forest Structure Analysis using Model-Based and AI Methods
+  image: files/DSC_1922_quadratisch_klein.jpg
+  mail: lehnert.lu@lmu.de
+  fak: Faculty of Geosciences
+  fak_nr: 20
+
+- last: Höhna
+  firsts: Sebastian
+  title: Dr.
+  chair: Emmy-Noether Research Group Leader
+  chairLink: https://hoehnalab.github.io/
+  interests: Phylogenetic Relationship Estimation, Divergence Time and Molecular Evolution Rates, Lineage Diversification Analysis, Gene Tree Conflict Resolution, Bayesian Phylogenetic Inference, Adaptive Genetic Evolution, Macroevolutionary Pattern Modeling.
+  image: files/hoehna.png
+  mail: hoehna@lmu.de
+  fak: Faculty of Geosciences
+  fak_nr: 20

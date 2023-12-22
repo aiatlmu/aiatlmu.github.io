@@ -18,7 +18,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: AI@LMU
+title: AI-HUB@LMU
 email: hege@math.lmu.de
 description: >- # this means to ignore newlines until "baseurl:"
   All the news from the AI community at LMU Munich
