@@ -271,6 +271,17 @@
   mail: Thomas.Kuhr@lmu.de
   fak: Faculty of Physics
   fak_nr: 17
+  
+- last:  Gruen
+  firsts: Daniel
+  title: Prof. Dr.
+  chair: Bavarian AI Chair for Astrophysics, Cosmology and Artificial Intelligence 
+  chairLink: https://www.physik.lmu.de/de/ueber-die-fakultaet-fuer-physik/personen/gruen-2.html
+  interests: Extragalactic Surveys, Cosmology, Gravitational Lensing Effect, Artificial Intelligence
+  image: files/gruen-daniel-now_1_1_format_m.jpg
+  mail: Daniel.Gruen@lmu.de
+  fak: Faculty of Physics
+  fak_nr: 17
 
 - last: Trapp
   firsts: Oliver
