@@ -7,7 +7,7 @@
   image: files/trendel.jpeg
   mail: thomas.schaertl@lmu.de
   fak: Faculty of Catholic Theology
-  fak_nr: 01
+  fak_nr: 1
 
 - last: Anselm
   firsts: Reiner
@@ -108,6 +108,17 @@
   fak: Faculty of Medicine
   fak_nr: 7
 
+- last: Böhmer
+  firsts: Henrike
+  title: Dr.
+  chair: Digital Teaching Coordinator
+  chairLink: https://www.vetmed.uni-muenchen.de/personen/studiendekanat/boehmer_-henrike/index.html
+  interests: Educational Science, E-Learning, Mobile Learning, Gamification
+  image: files/boehmer_henrike.jpeg
+  mail: H.Boehmer@dekanat.vetmed.uni-muenchen.de
+  fak: Faculty of Veterinary Medicine
+  fak_nr: 8
+
 - last: Frantz
   firsts: Laurent
   title: Prof. Dr.
@@ -178,8 +189,8 @@
   firsts: Jakob 
   title: Dr.
   chair: Postdoctoral Researcher, Experimental Neuro-Cognitive Psychologie
-  chairLink: https://www.psy.uni-muenchen.de/expneurocog/people/jakob_kaiser/index.html
-  interests: Cognitive Science, Bodily Feedback in Decision Making, Sensorimotor Process Adjustments, Oscillatory Mechanisms for Sensorimotor Preparation
+  chairLink: https://www.psy.uni-muenchen.de/expneurocog/people/lab-members/jakob_kaiser/index.html
+  interests: Cognitive Control of Attention and Actions, Flexibility in Learning and Behaviour, Subjective Control Assumptions/Sense of Agency, Neural Mechanisms of Optimal Behaviour during Demanding Tasks
   image: files/jakob_profil.jpg
   mail: J.Kaiser@psy.lmu.de
   fak: Faculty of Psychology and Educational Sciences
