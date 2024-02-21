@@ -1,0 +1,63 @@
+---
+layout: default
+title: Guest Lecture
+small_im: true
+---
+<div class="c-header-news-detail--news" data-css="c-header-news-detail" data-js-module="header-news-detail">
+	<div class="grid__container">
+		<div class="grid__row">
+			<div class="header-news-detail__container">
+				<article class="header-news-detail__wrapper">
+					<div class="header-news-detail__iconarea">
+						<div class="header-news-detail__icon" title="Icon News"><span class="header-news-detail__icon-text">News</span></div>
+					</div>
+					<div class="header-news-detail__content">
+								<h1 class="header-news-detail__headline">Enlarging the Capability of Diffusion Models for Inverse Problems by Guidance</h1>
+								<p class="header-news-detail__date">11 March 2024, 18:15—19:45</p>
+								<p>Meet Prof. Dr. Jong Chul Ye from KAIST at his talk on using diffusion models to solve inverse problems</p>
+					</div>
+				</article>
+			</div>
+		</div>
+	</div>
+</div>
+{% assign sorted = site.data.symposium_people | sort: 'last' %}
+
+		
+		
+<article class="c-rte--default" data-css="c-rte">
+	<div class="rte__container"> 
+			<div class="rte__content">
+		
+					<!-- <figure class="c-figure--rte is-rte-embed is-right" data-css="c-figure" data-js-module="overlay-handler">
+						<div class="figure__wrapper">
+							<picture class="c-picture--default lazyloaded" data-css="c-picture">
+								<img class="picture__image lazyautosizes lazyloaded" src="files/CAS_Web-Icon_Ai_602x462px_PNG24-1_auto_x2.jpg" alt="Image of poster reading 'CAS Research Focus: NEXT GENERATION AI'" data-sizes="auto" sizes="411px">
+							</picture>
+						</div>
+							<figcaption class="figure__caption">
+							</figcaption>
+					</figure> -->
+				  
+					<p style="text-align: justify;text-justify: inter-word;">
+						The recent advent of diffusion models has led to significant progress in solving inverse problems, leveraging these models as effective generative priors. Nonetheless, challenges related to the ill-posed nature of such problems remain, such as 3D extension and overcoming inherent ambiguities in measurements. In this talk, we introduce strategies to address these issues. First, to enable 3D extension using only 2D diffusion models, we propose a novel approach using two perpendicular pre-trained 2D diffusion models which guides each solver to solve the 3D inverse problem. Specifically, by modelling the 3D data distribution as a product of 2D distributions sliced in different directions, our method effectively addresses the curse of dimensionality from the image guidance from the perpendicular direction. Second, drawing inspiration from the human ability to resolve visual ambiguities through perceptual biases, we introduce a novel latent diffusion inverse solver by incorporating guidance by text prompts. Specifically, our method applies the textual description of the preconception of the solution during the reverse sampling phase, of which description is dynamically reinforced through null-text optimization for adaptive negation. Our comprehensive experimental results show that our method successfully mitigates ambiguity in latent diffusion inverse solvers, enhancing their effectiveness and accuracy.
+						</p>
+		</div>
+	
+	
+	  <div class="container">
+	   <div class="column-1 box"style="order: {% cycle 2,1 %}">
+						<a href="https://engineering.nyu.edu/faculty/yann-lecun">
+							<img src="files/ye.png" alt="Image of Yann LeCun" >
+						</a>
+	   </div>
+	   <div class="column-2 box" style="order: {% cycle 1,2 %}">
+	   <h2>Jong Chul Ye</h2>
+		
+					<p style="margin-bottom: 10px;"><a class="is-external" href="https://engineering.nyu.edu/faculty/yann-lecun">Graduate School of Artificial Intelligence, KAIST, Korea</a></p>
+					
+					<p style="text-align: justify;text-justify: inter-word;">Jong Chul Ye is a Professor at the Kim Jaechul Graduate School of Artificial Intelligence (AI) of Korea Advanced Institute of Science and Technology (KAIST), Korea. He received his B.Sc. and M.Sc. degrees from Seoul National University, Korea, and his PhD from Purdue University. Before joining KAIST, he worked at Philips Research and GE Global Research in New York. He has served as an associate editor of IEEE Trans. on Image Processing, IEEE Computational Imaging,  IEEE Trans. on Medical Imaging and a Senior Editor of IEEE Signal Processing and an editorial board member for Magnetic Resonance in Medicine.  He is an IEEE Fellow, was the Chair of IEEE SPS Computational Imaging TC, and IEEE EMBS Distinguished Lecturer.  He is the Fellow of the Korean Academy of Science and Technology, and the President of the Korean Society for  Artificial Intelligence in Medicine. He received various awards including the two most prestigious awards for mathematicians in Korea (Choi Suk-Jung Award, Kum-Kok Award), and Career Achievement Award from Korean Society for Magnetic Resonance in Medicine. His research interest is in machine learning for biomedical imaging and computer vision.</p>
+	   </div>
+	</div>
+	</div>
+				</article>
