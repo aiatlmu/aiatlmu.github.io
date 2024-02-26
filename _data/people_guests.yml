@@ -1,0 +1,37 @@
+- last: Spanjol
+  firsts: Jelena
+  title: Prof. Dr.
+  chair: Chair of the Board of Directors
+  chairLink: https://www.iec.uni-muenchen.de/index.html
+  #interests: Innovation Perspectives and Levels, Motivations, Capabilities, and Behaviors, Market Interpretation and Product Novelty, Team Dynamics and Innovation Implementation, Consumer Perspective, User-Centered Design in Complex Service Systems
+  #interests: Prof. Dr. Jelena Spanjol is head of the Institute for Innovation Management (IIM) at the Munich School of Management, Ludwig-Maximilians-Universität (LMU) in Munich, Germany. Prior to joining LMU, she held faculty positions at the University of Illinois at Chicago (UIC) and Texas A&M University. She received her PhD from the University of Illinois at Urbana-Champaign. Jelena’s research examines innovation dynamics across micro-, meso-, and macro-levels. Her current projects explore, among others, the holistic valuation of innovation beyond financial metrics, customer co-development for responsible innovation, and entrepreneurial narratives around impact strategies. Her work has been published in the Journal of Marketing, Journal of the Academy of Marketing Science, Journal of Product Innovation Management, Journal of Service Research, Journal of Public Policy & Marketing, Marketing Letters, Journal of Business Ethics, Health Psychology, Information & Management and in various book chapters. She currently serves as Editor-in-Chief (with Charles Noble) of the Journal of Product Innovation Management.
+  image: files/Prof_Spanjol_pf-scaled.jpg
+  mail: spanjol@lmu.de
+  fak: Faculty of Business Administration – Munich School of Management
+  fak: LMU Innovation & Entrepreneurship Center
+  # Faculty of Business Administration – Munich School of Management
+  #fak_nr: 20
+
+# - last: Domnik
+#   firsts: Dominik
+#   title: Dr.
+#   chair: Managing Director, LMU Innovation & Entrepreneurship Center
+#   chairLink: https://www.iec.uni-muenchen.de/about/our-team/dominik-domnik/index.html
+#   interests: His research interests are centered around methods and theoretical foundations of artificial intelligence, with a specific focus on machine learning and reasoning under uncertainty.
+#   image: files/1563709379447.jpg
+#   mail: domnik@lmu.de
+#   fak: LMU Innovation & Entrepreneurship Center
+  # Faculty of Business Administration – Munich School of Management
+  # fak_nr: 4
+  
+- last: Schönbrodt
+  firsts: Felix
+  title: Prof. Dr.
+  chair: Managing Director
+  chairLink: https://www.osc.uni-muenchen.de/index.html
+  #interests: Implicit and Explicit Motives, Quantitative Methods in Bayesian Statistics and Meta-Analysis, Data Visualization, Open Science and Replicability Issues, Statistical Packages and Web Apps Development
+  image: files/fs_portrait_23.jpeg
+  mail: felix.schoenbrodt@psy.lmu.de
+  fak: LMU Open Science Center
+  # fak: Faculty of Psychology and Educational Sciences
+  #fak_nr: 20

@@ -6,7 +6,8 @@ small_im: true
 {% assign sorted = site.data.people_reps  | sort: 'last' %}
 {% assign sorted2 = site.data.people_directors  | sort: 'last' %}
 {% assign concated0 = sorted2  | concat: sorted %}
-{% assign concated = concated0  | sort: 'fak_nr' %}
+{% assign concated1 = concated0  | sort: 'fak_nr' %}
+{% assign concated = concated1  | concat: site.data.people_guests %}
 <div class="c-header-news-detail--news" data-css="c-header-news-detail" data-js-module="header-news-detail">
 	<div class="grid__container">
 		<div class="grid__row">
@@ -96,8 +97,9 @@ small_im: true
    <h2>{{ person.title }} {{ person.firsts }} {{ person.last }}{{ person.after }}</h2>
 	
 				<p style="margin-bottom: 10px;"><a class="is-external	" href="{{ person.chairLink }}">{{ person.chair }}</a></p>
-				
+				{% if person.interests != nil %}
 				<p><b>Research interests:</b> {{ person.interests }}</p>
+				{% endif %}
 				<!-- <p><b>{{ person.fak }}</b></p> -->
    </div>
 </div>
