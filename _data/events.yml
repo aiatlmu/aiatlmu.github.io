@@ -574,3 +574,33 @@ AI and Sustainability'
   cal: true
   start: 183000
   end: 200000
+
+- id: 48
+  type: Talk
+  date: 2024-06-06
+  title: From Bach to Natural Machines, algorithms as the shapers of music
+  link: https://www.mathematik.uni-muenchen.de/aktuelles/vortraege/mathkoll/tepfer/index.html
+  description: Dan Tepfer, a pianist, composer, and coder, is giving a talk on June 6th about the significant role of algorithms in music, challenging the notion that music is solely a product of emotion. He will explain how algorithms are crucial in music creation, exemplified by his project "Natural Machines," where a Yamaha Disklavier player piano responds in real time to his improvisations. The talk will include live demonstrations, connecting Tepfer's high-tech project with Bach's timeless music, emphasizing the relationship between algorithms and music.
+  cal: true
+  start: 181500
+  end: 200000
+
+- id: 49
+  type: panel discussion
+  date: 2024-06-24
+  title: ChatGPT and other Large Language Models in Teaching and Research
+  link: https://www.philosophie.lmu.de/de/aktuelles/veranstaltungsuebersicht/veranstaltung/chatgpt-and-other-large-language-models-in-teaching-and-research.html
+  description: When ChatGPT was suddenly released to the general public in November of 2022, it sparked a lively discussion about its impact on education and research. This ongoing conversation continues to evolve as generative AI technologies become increasingly common in society. On June 24th the ethical and social questions around using ChatGPT and similar AI models in these fields are discussed in an event moderated by Prof. Dr. Sven Nyholm with AI ethics expert Dr. Silvia Milano giving a keynote, followed by a panel chat with Prof. Dr. Peter Adamson (philosophy), Prof. Dr. Frauke Kreuter (statistics and data science), and Prof. Dr. Albrecht Schmidt (computer science).
+  cal: true
+  start: 180000
+  end: 200000
+
+- id: 50
+  type: Workshop
+  date: 2024-07-02
+  title: Academic Speed Dating
+  link: https://docs.google.com/forms/d/e/1FAIpQLSdFdYuN7impQUlozqIPbn1UJHRG7r2fNgMU_P8Lkj8ocq1-lQ/viewform
+  description: AI-HUB@LMU is excited to announce an Academic Speed Dating event organized by Prof. Dr. Alexander Wuttke for scholars from all disciplines with an interest in AI research. Participants will engage in 5-minute blitz conversations, providing a rapid-fire exchange of ideas. Our aim is to spark interdisciplinary dialogues and collaborations by introducing scholars from diverse academic backgrounds and career stages who share a common interest in AI, whether directly or peripherally. The event promises to be an enriching opportunity for faculty, postdocs, and graduate students alike to explore the multifaceted world of AI research. The event will take place on Zoom. <a href="https://docs.google.com/forms/d/e/1FAIpQLSdFdYuN7impQUlozqIPbn1UJHRG7r2fNgMU_P8Lkj8ocq1-lQ/viewform">Sign up here</a>
+  cal: true
+  start: 180000
+  end: 200000
