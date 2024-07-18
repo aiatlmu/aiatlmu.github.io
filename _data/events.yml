@@ -604,3 +604,33 @@ AI and Sustainability'
   cal: true
   start: 180000
   end: 200000
+
+- id: 51
+  type: Conference
+  date: 2024-07-04
+  title: Munich AI Day 2024 by MCML
+  link: https://mcml.ai/events/2024-07-04-munich-ai-day/
+  description: What does the future of Artificial Intelligence (AI) look like and what are new developments in research? Outstanding national and international AI scientists and decision-makers from politics, business and the media will come together at this year's Munich AI Day 2024 on Thursday, July 4, 2024 at 2pm to shed light on these  questions. The aim of the summit, organized by the Munich Center for Machine Learning, is to discuss the potentials of AI in different fields. The Streaming-Link will be published here shortly before the event starts.
+  cal: true
+  start: 140000
+  end: 200000
+
+- id: 52
+  type: Panel Discussion
+  date: 2024-07-09
+  title: Can Ethics Ensure Trustworthy AI?
+  link: https://www.philosophie.lmu.de/de/aktuelles/veranstaltungsuebersicht/veranstaltung/can-ethics-ensure-trustworthy-ai.html
+  description: The Chair of Ethics of Artificial Intelligence (Prof. Dr. Sven Nyholm) cordially invites everyone to a panel discussion on Tuesday, July 9, 2024 at the Senatsaal, Geschwister Scholl Platz 1. Can Ethics Ensure Trustworthy AI? This event is part of the event series "Comparing Notes on Trustworthy AI" in cooperation with the Liquid Legal Institute and appliedAI.
+  cal: true
+  start: 173000
+  end: 190000
+
+- id: 53
+  type: Lecture
+  date: 2024-07-17
+  title: We are (still?) not giving data enough credit
+  link: https://www.youtube.com/live/F8KsGwBBS4g
+  description: Prof. Dr. Alexei (Alyosha) Efros is a professor at UC Berkeley and a member of the Berkeley Artificial Intelligence Research Lab (BAIR). His research is in the area of computer vision and computer graphics, especially at the intersection of the two. Everyone is cordially invited to the next lecture Munich AI Lectures on Wednesday, July 17, 2024 in the Plenarsaal of the Bavarian Academy of Sciences in Munich. Professor Alexei A. Efros from UC Berkeley will speak on the topic "We are (still?) not giving data enough credit". Please register for the event here. The lecture will also be available as a livestream.
+  cal: true
+  start: 183000
+  end: 200000

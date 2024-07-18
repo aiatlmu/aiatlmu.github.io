@@ -318,6 +318,46 @@
   interests: Mathematical Foundations of Machine Learning, Mathematics of Signal Processing, Deep Learning, Compressive Sensing, Random Matrices, Applied Harmonic Analysis, Continuous Optimization, Approximation Theory
   image: files/rauhut.jpg
 
+- last: Burgi
+  firsts: Martin
+  title: Prof. Dr. jur. 
+  chair: Chair of Public Law, Business Administrative Law, Environmental and Social Security Law
+  chairLink: https://www.jura.lmu.de/de/fakultaet/personen/kontaktseite/martin-burgi-e8ba069f.html
+  interests: AI regulation (especially regulation of neuro-technology) and commercial administrative law, AI-procurement law, AI-based medical and social law
+  image: files/bild-burgi-quadratisch_1_1_format_m.jpg
+
+- last: Habersack
+  firsts: Mathias 
+  title: Prof. Dr. jur. 
+  chair: Chair of Private and Business Law
+  chairLink: https://www.jura.lmu.de/en/faculty/chairs/chairs-and-professorships-of-civil-law/chair-prof.-habersack/
+  interests: The Impact of AI on Company Law
+  image: files/prof.-dr.-habersack_2016_1_1_format_s.jpg
+
+- last: Franzen
+  firsts: Martin 
+  title: Prof. Dr. jur. 
+  chair: Chair of German, European and International Labour Law as well as Private Law
+  chairLink: https://www.jura.lmu.de/de/fakultaet/personen/kontaktseite/martin-franzen-64c546d8.html
+  interests: European and international labour law; law of collective labour relations (collective bargaining, works constitution law); consumer contract law; data protection law. Interested in the impact of AI in these fields and in particular in the regulatory personal data protection framework of AI
+  image: files/franzen1_1_1_format_s.jpg
+
+- last: Spickhoff
+  firsts: Andreas   
+  title: Prof. Dr. jur. 
+  chair: Chair of Private and Medical Law
+  chairLink: https://www.jura.lmu.de/de/fakultaet/personen/kontaktseite/andreas-spickhoff-c2eb5c5a.html 
+  interests: AI liability, product liability, tortious liability, especially liability for medical devices
+  image: files/spickhoff_140415_1_1_format_s.jpg
+
+- last: Mayrhofer
+  firsts: Ann-Kristin
+  title: Dr. jur. 
+  chair: Akademische Rätin a. Z., Chair of Civil Law, Civil Procedure, European Private Law and Procedure
+  chairLink: https://www.jura.lmu.de/de/fakultaet/personen/kontaktseite/ann-kristin-mayrhofer-ba8c5a37.html#
+  interests: Civil Law, Civil Procedure, Digital Law, Legal Tech
+  image: files/annkristinmayrhofer_2_1_1_format_m.jpg
+
 #- last: 
 #  firsts: 
 #  title: Prof. Dr.
