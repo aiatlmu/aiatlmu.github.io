@@ -20,19 +20,19 @@ consideration
 
 *Evaluation Criteria:*
 - Relevance to Artificial Intelligence and degree of innovation
-- Excellence of expected research outcomes.
+- Excellence of expected research outcomes
 - Impact on the career development of early career researchers
 - Historically underrepresented groups (in the respective scientific field) are
 encouraged to apply and will receive preferential consideration
 
 *Application Requirements:*
 - Project Proposal: Up to 4 pages, including methods and project plan; budget and
-justification on a separate page.
-- Curriculum Vitae (CV): A current CV of the applicant.
+justification on a separate page
+- Curriculum Vitae (CV): A current CV of the applicant
 - Submit all documents as one file
 Review Committee: The review committee will consist of members of the AI-HUB@LMU
 steering committee, with representatives from:
-- Humanities, including Theology and Philosophy.
+- Humanities, including Theology and Philosophy
 - Human Sciences
 - Natural Sciences
 - Social Sciences
