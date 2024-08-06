@@ -13,19 +13,19 @@ The AI-HUB@LMU is pleased to announce the AI-HUB@LMU Prize for the
 research in the field of Artificial Intelligence. 3.000 Euro will be awarded for the project, plus
 2.000 Euro to support travel, conference fees, or other project costs. The prize will be awarded together with the prize for the [best Master’s thesis](masters-thesis-prize).
 
-*Eligibility:*
+## Eligibility:
 - All scientific staff at LMU
 - Early career researchers are encouraged to apply and will receive preferential
 consideration
 
-*Evaluation Criteria:*
+## Evaluation Criteria:
 - Relevance to Artificial Intelligence and degree of innovation
 - Excellence of expected research outcomes
 - Impact on the career development of early career researchers
 - Historically underrepresented groups (in the respective scientific field) are
 encouraged to apply and will receive preferential consideration
 
-*Application Requirements:*
+## Application Requirements:
 - Project Proposal: Up to 4 pages, including methods and project plan; budget and
 justification on a separate page
 - Curriculum Vitae (CV): A current CV of the applicant
@@ -38,7 +38,7 @@ steering committee, with representatives from:
 - Social Sciences
 - Structural Sciences
 
-*Timeline:*
+## Timeline:
 - Call Announcement: July 15
 - Submission Deadline: August 31
 - Decision Announcement: October 15
