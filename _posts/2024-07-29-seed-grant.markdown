@@ -7,6 +7,14 @@ excerpt: 'The AI-HUB@LMU is pleased to announce the AI-HUB@LMU Prize for the
 Most Innovative AI-based Research Project.'
 permalink: seed-grant
 ---
+<style>
+  p {
+    font-size: 1.75rem !important;
+  }
+  li {
+    font-size: 1.75rem !important;
+  }
+</style>
 
 The AI-HUB@LMU is pleased to announce the AI-HUB@LMU Prize for the
 <b>Most Innovative AI-based Research Project</b>. This prize aims to support groundbreaking

@@ -5,6 +5,14 @@ image: files/aula.jpg
 excerpt: 'The AI-HUB@LMU is excited to invite submissions for the first ever Best Master’s Thesis in the Field of AI'
 permalink: masters-thesis-prize
 ---
+<style>
+  p {
+    font-size: 1.75rem !important;
+  }
+  li {
+    font-size: 1.75rem !important;
+  }
+</style>
 
 The AI-HUB@LMU is excited to invite submissions for the first ever Best Master’s Thesis in the Field of AI, recognizing outstanding master’s theses. The winner will receive a prize of 1.000 Euro. Grasp this opportunity and apply!
 
@@ -41,4 +49,4 @@ colleagues. The committee will include one representative from:
 
 Submission Process: Applications should be uploaded in one file [here](https://syncandshare.lrz.de/preparefilelink?folderID=22gjtVgVRfJNh7eQrzsbs). Late submissions will
 not be considered. Ensure all documents are in PDF format and adhere to the specified
-structure.
+structure. 
