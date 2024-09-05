@@ -634,3 +634,14 @@ AI and Sustainability'
   cal: true
   start: 183000
   end: 200000
+
+
+- id: 54
+  type: Conference
+  date: 2024-10-10
+  title: Women in Data Science Munich
+  link: https://www.widsmunich.de/
+  description: Women in Data Science Munich will welcome some fantastic speakers in the heart of Munich. WiDS Munich is independently organized by LMU, TUM, MDSI, BERD@NFDI, TUM Think Tank and Sixt SE to be part of the mission to increase participation of women in data science and to feature outstanding women doing outstanding work.
+  cal: true
+  start: 000000
+  end: 240000
