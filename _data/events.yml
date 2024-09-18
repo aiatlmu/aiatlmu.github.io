@@ -657,3 +657,23 @@ AI and Sustainability'
   cal: true
   start: 100000
   end: 170000
+
+- id: 56
+  type: Symposium
+  date: 2024-09-25
+  title: DSSGx Munich 2024 Closing ceremony"
+  link: https://www.dssgxmunich.org/closing-ceremony
+  description: Join on September 25th, 2024, for the DSSGx Munich Closing Ceremony, where fellows will present data-driven projects addressing key social challenges
+  cal: true
+  start: 160000
+  end: 210000
+
+- id: 57
+  type: Workshop
+  date: 2024-10-07
+  title: Setting Up a Diversity Lab
+  link: https://www.cas.lmu.de/de/veranstaltungen/veranstaltung/setting-up-a-diversity-lab.html
+  description: Explore how dissimilarity concepts can enhance fairness-aware data practices in machine learning at this interdisciplinary workshop led by Prof. Dr. Christoph Kern
+  cal: true
+  start: 100000
+  end: 123000
