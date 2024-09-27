@@ -1,11 +1,11 @@
 ---
 layout: post
 title:  The Mathematical Universe behind Deep Neural Networks
-image: files/lecturehall.jpg
+image: files/boelcskei.jpg
 excerpt: "Munich AI Lecture with Prof. Dr. Helmut Bölcskei"
 ---
 
-Deep neural networks have led to breakthrough results in numerous practical machine learning tasks. In his Munich AI Lecture on November 25, Prof. Dr. Helmut Bölcskei will will attempt a journey through the mathematical universe behind these practical successes, elucidating the theoretical underpinnings of deep neural networks in functional analysis, harmonic analysis, complex analysis, approximation theory, dynamical systems, Kolmogorov complexity, optimal transport, fractal geometry, mathematical logic, and automata theory.
+Deep neural networks have led to breakthrough results in numerous practical machine learning tasks. In his Munich AI Lecture on November 25, Prof. Dr. Helmut Bölcskei will attempt a journey through the mathematical universe behind these practical successes, elucidating the theoretical underpinnings of deep neural networks in functional analysis, harmonic analysis, complex analysis, approximation theory, dynamical systems, Kolmogorov complexity, optimal transport, fractal geometry, mathematical logic, and automata theory. The walk wil take place starting at 5pm c.t. in LMU's [historic aula](https://www.uni-ball.kunstwissenschaften.uni-muenchen.de/aula/index.html).
 
 ## About the speaker
 Helmut Bölcskei is a professor of Mathematical Information Science at ETH Zurich. Since 2021 he has also been a Principal Investigator at the Lagrange Mathematics and Computing Research Center, Paris, France.
