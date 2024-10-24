@@ -677,3 +677,11 @@ AI and Sustainability'
   cal: true
   start: 100000
   end: 123000
+
+- id: 58
+  type: Workshop
+  date: 2024-11-22
+  title: Epistemic Foundations and Limitations of Statistics and Science - Explaining the Replication Crisis?
+  link: https://sites.google.com/view/epix-workshop/
+  description: Explore how dissimilarity concepts can enhance fairness-aware data practices in machine learning at this interdisciplinary workshop led by Prof. Dr. Christoph Kern
+  cal: false
