@@ -253,15 +253,7 @@
   image: files/chris-1-225x300.jpg
   interests: Interested in cognitive psychology, particularly in developing and testing computational and mathematical models of cognitive processes
   after: ", Ph.D."
-
-- last: Plank
-  firsts: Barbara
-  chairLink: https://bplank.github.io
-  title: Prof. Dr.
-  chair: Bavarian AI Chair of AI and Computational Linguistics
-  image: files/barbara.png
-  interests: Natural language processing, machine learning, deep learning, domain adaptation, multilingual NLP, multitask learning, transfer learning, parsing, sequence tagging, opinion mining, information extraction, NLP for social media
-
+  
 - last: Thurner
   firsts: Paul W.
   chairLink: https://www.en.gsi.uni-muenchen.de/people/professors/thurner/index.html

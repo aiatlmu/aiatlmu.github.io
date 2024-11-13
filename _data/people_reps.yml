@@ -218,13 +218,13 @@
   fak: Faculty for the Study of Culture
   fak_nr: 12
 
-- last: Fraser 
-  firsts: Alexander M.
-  chairLink: https://www.cis.uni-muenchen.de/%7Efraser/
+- last: Plank
+  firsts: Barbara
+  chairLink: https://bplank.github.io
   title: Prof. Dr.
-  chair: Professor for Information and Language Processing
-  image: files/alex.jpg
-  interests: Machine Translation, Natural Language Processing, Information Retrieval, Transfer Learning, Representation Learning, Domain Adaptation, Digital Inclusion
+  chair: Bavarian AI Chair of AI and Computational Linguistics
+  image: files/barbara.png
+  interests: Natural language processing, machine learning, deep learning, domain adaptation, multilingual NLP, multitask learning, transfer learning, parsing, sequence tagging, opinion mining, information extraction, NLP for social media
   fak: Faculty of Languages and Literatures
   fak_nr: 13
 
