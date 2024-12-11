@@ -5,7 +5,7 @@ image: files/Hoffmann_Canva-Template-768x432.png
 excerpt: "Franca Hoffmann, California Institute of Technology;
 Holger Hoos, RWTH Aachen University "
 ---
-We are thrilled to invite you to the upcoming Munich AI Lecture featuring two distinguished researchers Prof. Holger Hoos from RWTH Aachen University and Prof. Franca Hoffmann from California Institute of Technology. The lecture is organized by the Chair of Mathematics of Information Processing with support by MCML. The event will take place on Tuesday, 17 December from 4:00 pm to 6:30 pm in the [Senatssaal, Geschwister-Scholl-Platz 1](https://www.ifkw.uni-muenchen.de/lehrbereiche/froehlich/fachgruppentagung/anfahrt/lage_senatssaal.jpg).
+We are thrilled to invite you to the upcoming Munich AI Lecture featuring two distinguished researchers Prof. Dr. Holger Hoos from RWTH Aachen University and Prof. Dr. Franca Hoffmann from California Institute of Technology. The lecture is organized by the Chair of Mathematics of Information Processing with support by MCML. The event will take place on Tuesday, 17 December from 4:00 pm to 6:30 pm in the [Senatssaal, Geschwister-Scholl-Platz 1](https://www.ifkw.uni-muenchen.de/lehrbereiche/froehlich/fachgruppentagung/anfahrt/lage_senatssaal.jpg).
 
 In the first talk, Prof. Hoffmann will talk about the dynamics of interactions between algorithms and a population.
 
