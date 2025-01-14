@@ -66,7 +66,7 @@ Prof. Dr. Dr. Peter Höppe, Chairman [Münchener Universitätsgesellschaft (MUG)
 
 Time to connect with other participants and partners and discuss the exciting future of AI at LMU.
 
-<b>You can also download the program [here](files/AI-HUB_Grand-Opening_Program.pdf).</b>
+<b>You can also [download the program here](files/AI-HUB_Grand-Opening_Program.pdf).</b>
 
 ### Thank you to our partners at LMU and beyond!
 <p style="display: flex;justify-content: space-between;/*! width: 100%; */">
