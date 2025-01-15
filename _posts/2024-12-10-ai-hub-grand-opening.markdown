@@ -57,7 +57,7 @@ Prof. Dr. Dr. Peter Höppe, Chairman [Münchener Universitätsgesellschaft (MUG)
 - <b>Presentation</b> Managing, Transfer, and Impact of AI
 
 ### 8:15 PM – Future of AI at LMU
-<b>Fireside Chat</b> [Prof. Hal Daumé III, PhD](http://users.umiacs.umd.edu/~hal/), Director, Artificial Intelligence Interdisciplinary Institute at the University of Maryland and [Prof. Dr. Frauke Kreuter](https://www.statistik.uni-muenchen.de/personen/professuren/kreuter1/index.html), Spokesperson, AI-HUB@LMU
+<b>Fireside Chat</b> [Prof. Hal Daumé III, PhD](http://users.umiacs.umd.edu/~hal/), Director, Artificial Intelligence Interdisciplinary Institute at the University of Maryland and [Prof. Dr. Frauke Kreuter](https://www.stat.lmu.de/soda/en/team/contact-page/frauke-kreuter-825909f7.html), Spokesperson, AI-HUB@LMU
 
 ### 8:30 PM – Receptions and Get-Together
 
