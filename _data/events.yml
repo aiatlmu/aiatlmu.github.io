@@ -685,3 +685,11 @@ AI and Sustainability'
   link: https://sites.google.com/view/epix-workshop/
   description: This workshop organized by the Open Science Initiative in Statistics (OSIS), the Department of Statistics, and the Munich Center for Machine Learning will take place in Munich on November 22, 2024. The event will bring together statisticians, philosophers of science, and researchers to explore the replication crisis from an epistemic standpoint, focusing on the often-overlooked foundations and limitations of statistics. Keynotes and discussions will address the widespread misuse of statistical methods and its impact on scientific reproducibility
   cal: false
+
+- id: 59
+  type: Grand Opening
+  date: 2025-01-29
+  title: AI-HUB@LMU Grand Opening
+  link: https://www.ai-news.lmu.de/grand-opening-ai-hub
+  description: Artificial intelligence is having a massive impact on all areas of research like hardly any other science – including at Ludwig-Maximilians-Universität München. We want to meet the resulting demand to bundle and advance research, teaching, and transfer accordingly and have therefore founded the AI-HUB@LMU, a platform that for the first time unites all 18 faculties of the LMU as a joint scientific community. After a period of intensive preparations, we can now officially launch our AI-HUB@LMU.
+  cal: false
