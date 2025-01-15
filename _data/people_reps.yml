@@ -64,14 +64,15 @@
   fak: Faculty of Economics
   fak_nr: 5
 
+
 - last: Falck
-  firsts: Oliver 
+  firsts: Oliver
   title: Prof. Dr.
-  chair: Director of the ifo Center for Industrial Organization and New Technologies
-  chairLink: https://www.ifo.de/en/falck-o
-  interests: Innovation, Growth and Economic Development, Entrepreneurship, Human Capital, Regional Aspects
-  image: files/cvfoto-falck.jpg
-  mail: falck@ifo.de
+  chair: Chair for Economics, especially Empirical Innovation Economics / Director of the ifo Center for Industrial Organization and New Technologies
+  chairLink: https://www.inno.econ.uni-muenchen.de/team/professoren/falck/index.html
+  interests: How Policy can Promote Competitiveness and Innovation, How Technological Progress Aﬀects The Economy and Society, Empirical Methods of Counterfactual Impact Analysis, AI with Unconventional (Big) Data.
+  image: files/2021_10_06lmu0217_Oliver Falck_s.jpg
+  mail: Falck@ifo.de
   fak: Faculty of Economics
   fak_nr: 5
 
