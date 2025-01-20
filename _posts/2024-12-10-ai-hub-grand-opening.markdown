@@ -35,31 +35,31 @@ vice-president-for-international-affairs-and-diversity/), VP, International Affa
 - [Prof. Dr. Dr. Fabian J. Theis](https://www.helmholtz-munich.de/icb/pi/fabian-theis), Chairman of the Bavarian AI Council
 - [Prof. Dr. Armin Nassehi](https://www.lmu.de/de/die-lmu/struktur/organisation/senat/), Chairman, Board of University Representatives
 
-### 6:25 PM – Mission of AI-HUB@LMU
+### 6:35 PM – Mission of AI-HUB@LMU
 
 [Prof. Dr. Gitta Kutyniok](https://www.ai.math.uni-muenchen.de/members/professor/kutyniok/index.html), Spokesperson, AI-HUB@LMU
 
-### 6:35 PM – Faculty Highlights AI Across LMU I
+### 6:45 PM – Faculty Highlights AI Across LMU I
 
 - <b>Keynote Lecture</b> Foundations of AI
 - <b>Pitch Talks</b> Scientific Discoveries with AI
 
-### 7:20 PM – Presentation of the AI-HUB@LMU Prizes
+### 7:30 PM – Presentation of the AI-HUB@LMU Prizes
 
 Prof. Dr. Dr. Peter Höppe, Chairman [Münchener Universitätsgesellschaft (MUG)](https://www.unigesellschaft.de/), and [Prof. Dr. Alexander Wuttke](https://www.gsi.uni-muenchen.de/personen/professoren/wuttke/index.html), Head of the Prize Committee, awards the following prizes:
 
 - <b>AI-HUB@LMU Prize for the Best Master’s Thesis Project in the Field of AI:</b> Pauline Leininger 
 - <b>AI-HUB@LMU Prize for the Most Innovative AI-based Research Project:</b> Maximilian Frank and Simon Lund and Eva Sextl 
 
-### 7:30 PM – Faculty Highlights AI Across LMU II
+### 7:40 PM – Faculty Highlights AI Across LMU II
 
 - <b>Panel Discussion</b> A(I) Matter of Trust? The Role of the Humanities in the Digital Transformation
 - <b>Presentation</b> Managing, Transfer, and Impact of AI
 
-### 8:15 PM – Future of AI at LMU
+### 8:25 PM – Future of AI at LMU
 <b>Fireside Chat</b> [Prof. Hal Daumé III, PhD](http://users.umiacs.umd.edu/~hal/), Director, Artificial Intelligence Interdisciplinary Institute at the University of Maryland and [Prof. Dr. Frauke Kreuter](https://www.stat.lmu.de/soda/en/team/contact-page/frauke-kreuter-825909f7.html), Spokesperson, AI-HUB@LMU
 
-### 8:30 PM – Receptions and Get-Together
+### 8:40 PM – Receptions and Get-Together
 
 
 <b>You can also [download the program here](files/AI-HUB_Grand-Opening_Program.pdf).</b>
